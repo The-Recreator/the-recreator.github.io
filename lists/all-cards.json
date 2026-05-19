@@ -1,17 +1,10 @@
 ﻿{
-    "name": "Out-of-Placers",
-    "formats": "",
-    "image_type": "png",
-    "draft_structure": "draft booster",
-    "unpreviewed": "card back",
-    "image_name": "position",
-    "v_mana": "",
     "cards": [
         {
             "card_name": "Sunrat",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Rat",
+            "type": "Creature \u2013 Rat",
             "number": 12,
             "color_identity": "W",
             "cost": "{W}",
@@ -26,17 +19,19 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "Cycle \u2014 Rat"
+            "notes": "Cycle \u2014 Rat",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shieldrat",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Rat",
+            "type": "Creature \u2013 Rat",
             "number": 23,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "[i]Breeding[/i] \u2014 This creature enters with your choice of a +1/+1 counter or a hexproof counter on it.\n{T}: Target player mills a card. [i](They put the top card of their library into their graveyard.)[/i]",
+            "rules_text": "[i]Breeding[/i] \u2013 This creature enters with your choice of a +1/+1 counter or a hexproof counter on it.\n{T}: Target player mills a card. [i](They put the top card of their library into their graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "0/2",
             "special_text": "",
@@ -47,13 +42,15 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": "Cycle \u2014 Rat\nCycle \u2014 Breeding Commons"
+            "notes": "Cycle \u2014 Rat\nCycle \u2014 Breeding Commons",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rattergnat",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Rat",
+            "type": "Creature \u2013 Rat",
             "number": 34,
             "color_identity": "B",
             "cost": "{B}",
@@ -68,13 +65,15 @@
             "alias": "",
             "position": "2",
             "rotated": false,
-            "notes": "Cycle \u2014 Rat"
+            "notes": "Cycle \u2014 Rat",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Longrat",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Rat",
+            "type": "Creature \u2013 Rat",
             "number": 43,
             "color_identity": "R",
             "cost": "{R}",
@@ -89,13 +88,15 @@
             "alias": "",
             "position": "3",
             "rotated": false,
-            "notes": "Cycle \u2014 Rat"
+            "notes": "Cycle \u2014 Rat",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bushrat",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Rat",
+            "type": "Creature \u2013 Rat",
             "number": 48,
             "color_identity": "G",
             "cost": "{G}",
@@ -110,13 +111,15 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": "Cycle \u2014 Rat"
+            "notes": "Cycle \u2014 Rat",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chorp Parasite",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Insect",
+            "type": "Creature \u2013 Insect",
             "number": 2,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -131,17 +134,19 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Enclave Guards",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Yinglet",
+            "type": "Creature \u2013 Yinglet",
             "number": 4,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "[i]Breeding[/i] \u2014 This creature enters with your choice of a +1/+1 counter or a vigilance counter.",
+            "rules_text": "[i]Breeding[/i] \u2013 This creature enters with your choice of a +1/+1 counter or a vigilance counter.",
             "flavor_text": "[i]\u201cActually, do not forgive zhem. Zhey will never learn otherwize.\u201d\n\u2014 Matriarch Vizlet[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -152,13 +157,15 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": "Cycle \u2014 Breeding Commons"
+            "notes": "Cycle \u2014 Breeding Commons",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mothguard Sentry",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Soldier",
+            "type": "Creature \u2013 Human Soldier",
             "number": 8,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -173,13 +180,15 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": "Functional reprint"
+            "notes": "Functional reprint",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mothguard Patroller",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Soldier",
+            "type": "Creature \u2013 Human Soldier",
             "number": 7,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -194,7 +203,9 @@
             "alias": "",
             "position": "8",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hatchling Season",
@@ -215,13 +226,15 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chorp Swarm",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Insect",
+            "type": "Creature \u2013 Insect",
             "number": 3,
             "color_identity": "W",
             "cost": "{4}{W}",
@@ -236,7 +249,9 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wing It",
@@ -257,7 +272,9 @@
             "alias": "",
             "position": "11",
             "rotated": false,
-            "notes": "Reprint\nCycle \u2014 Keyword Counter\nInstant, Combat Trick, Keyword Counter"
+            "notes": "Reprint\nCycle \u2014 Keyword Counter\nInstant, Combat Trick, Keyword Counter",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rootborn Defenses",
@@ -278,7 +295,9 @@
             "alias": "",
             "position": "12",
             "rotated": false,
-            "notes": "Reprint\nInstant, Protection, Creature Tokens"
+            "notes": "Reprint\nInstant, Protection, Creature Tokens",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rapier Wit",
@@ -299,13 +318,15 @@
             "alias": "",
             "position": "13",
             "rotated": false,
-            "notes": "Reprint"
+            "notes": "Reprint",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Arrest",
             "color": "W",
             "rarity": "common",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 1,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -320,13 +341,15 @@
             "alias": "",
             "position": "14",
             "rotated": false,
-            "notes": "Reprint"
+            "notes": "Reprint",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Val Salian Librarian",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Human",
+            "type": "Creature \u2013 Human",
             "number": 24,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -341,13 +364,15 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Beizel's Scouts",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Yinglet Rogue",
+            "type": "Creature \u2013 Yinglet Rogue",
             "number": 15,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -362,13 +387,15 @@
             "alias": "",
             "position": "16",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Baxxid Merchant",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Skeleton Worm",
+            "type": "Creature \u2013 Skeleton Worm",
             "number": 14,
             "color_identity": "U",
             "cost": "{4}{U}",
@@ -383,7 +410,9 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Deny Entry",
@@ -404,7 +433,9 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": "Reprint"
+            "notes": "Reprint",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cite Regulations",
@@ -425,7 +456,9 @@
             "alias": "",
             "position": "19",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Run Away Together",
@@ -446,7 +479,9 @@
             "alias": "",
             "position": "20",
             "rotated": false,
-            "notes": "Reprint"
+            "notes": "Reprint",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Out Cold",
@@ -467,7 +502,9 @@
             "alias": "",
             "position": "21",
             "rotated": false,
-            "notes": "Reprint"
+            "notes": "Reprint",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Genetics Research",
@@ -488,7 +525,9 @@
             "alias": "",
             "position": "22",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Procrastinate",
@@ -509,13 +548,15 @@
             "alias": "",
             "position": "23",
             "rotated": false,
-            "notes": "Reprint"
+            "notes": "Reprint",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blossombind",
             "color": "U",
             "rarity": "common",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 16,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -530,13 +571,15 @@
             "alias": "",
             "position": "24",
             "rotated": false,
-            "notes": "Reprint"
+            "notes": "Reprint",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Boot Nipper",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Beast",
+            "type": "Creature \u2013 Beast",
             "number": 30,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -551,13 +594,15 @@
             "alias": "",
             "position": "25",
             "rotated": false,
-            "notes": "Reprint"
+            "notes": "Reprint",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swamp Dweller",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Yinglet",
+            "type": "Creature \u2013 Yinglet",
             "number": 36,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -572,13 +617,15 @@
             "alias": "",
             "position": "26",
             "rotated": false,
-            "notes": "Cycle \u2014 Breeding Commons"
+            "notes": "Cycle \u2014 Breeding Commons",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Poison Boy",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Yinglet",
+            "type": "Creature \u2013 Yinglet",
             "number": 33,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -593,13 +640,15 @@
             "alias": "",
             "position": "27",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Baxxid Pariah",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Skeleton Worm Zombie",
+            "type": "Creature \u2013 Skeleton Worm Zombie",
             "number": 27,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -614,13 +663,15 @@
             "alias": "",
             "position": "28",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blitz Leech",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Leech",
+            "type": "Creature \u2013 Leech",
             "number": 28,
             "color_identity": "B",
             "cost": "{5}{B}",
@@ -635,7 +686,9 @@
             "alias": "",
             "position": "29",
             "rotated": false,
-            "notes": "Reprint"
+            "notes": "Reprint",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bake into a Pie",
@@ -656,7 +709,9 @@
             "alias": "",
             "position": "30",
             "rotated": false,
-            "notes": "Reprint"
+            "notes": "Reprint",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blood Curdle",
@@ -677,7 +732,9 @@
             "alias": "",
             "position": "31",
             "rotated": false,
-            "notes": "Reprint"
+            "notes": "Reprint",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stab",
@@ -698,7 +755,9 @@
             "alias": "",
             "position": "32",
             "rotated": false,
-            "notes": "Reprint"
+            "notes": "Reprint",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dwell on Hopelessness",
@@ -719,7 +778,9 @@
             "alias": "",
             "position": "33",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Atrocious Experiment",
@@ -740,13 +801,15 @@
             "alias": "",
             "position": "34",
             "rotated": false,
-            "notes": "Reprint"
+            "notes": "Reprint",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dead Weight",
             "color": "B",
             "rarity": "common",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 31,
             "color_identity": "B",
             "cost": "{B}",
@@ -761,13 +824,15 @@
             "alias": "",
             "position": "35",
             "rotated": false,
-            "notes": "Reprint"
+            "notes": "Reprint",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Freelance Scavenger",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Yinglet",
+            "type": "Creature \u2013 Yinglet",
             "number": 40,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -782,13 +847,15 @@
             "alias": "",
             "position": "36",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Homeland Conqueror",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Yinglet Berserker",
+            "type": "Creature \u2013 Yinglet Berserker",
             "number": 42,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -803,13 +870,15 @@
             "alias": "",
             "position": "37",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Street Tough Gang",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Yinglet Rogue",
+            "type": "Creature \u2013 Yinglet Rogue",
             "number": 45,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -824,13 +893,15 @@
             "alias": "",
             "position": "38",
             "rotated": false,
-            "notes": "Cycle \u2014 Breeding Commons"
+            "notes": "Cycle \u2014 Breeding Commons",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mountain Glider",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Beast",
+            "type": "Creature \u2013 Beast",
             "number": 44,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
@@ -845,7 +916,9 @@
             "alias": "",
             "position": "39",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Abrade",
@@ -855,7 +928,7 @@
             "number": 37,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Choose one \u2014\n\u2022 Abrade deals 3 damage to target creature.\n\u2022 Destroy target artifact.",
+            "rules_text": "Choose one \u2013\n\u2022 Abrade deals 3 damage to target creature.\n\u2022 Destroy target artifact.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -866,7 +939,9 @@
             "alias": "",
             "position": "40",
             "rotated": false,
-            "notes": "Reprint"
+            "notes": "Reprint",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fling",
@@ -887,7 +962,9 @@
             "alias": "",
             "position": "41",
             "rotated": false,
-            "notes": "Reprint"
+            "notes": "Reprint",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Heightened Reflexes",
@@ -908,7 +985,9 @@
             "alias": "",
             "position": "42",
             "rotated": false,
-            "notes": "Reprint"
+            "notes": "Reprint",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cathartic Reunion",
@@ -929,7 +1008,9 @@
             "alias": "",
             "position": "43",
             "rotated": false,
-            "notes": "Reprint"
+            "notes": "Reprint",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "You've Been Caught Stealing",
@@ -939,7 +1020,7 @@
             "number": 46,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Choose one \u2014\n\u2022 [i]Threaten the Merchant[/i] \u2014 Each creature blocks this turn if able.\n\u2022 [i]Bribe the Guards[/i] \u2014 You create a Treasure token for each opponent who was dealt damage this turn. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "Choose one \u2013\n\u2022 [i]Threaten the Merchant[/i] \u2013 Each creature blocks this turn if able.\n\u2022 [i]Bribe the Guards[/i] \u2013 You create a Treasure token for each opponent who was dealt damage this turn. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -950,13 +1031,15 @@
             "alias": "",
             "position": "44",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Caravan Sentry",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Yinglet Scout",
+            "type": "Creature \u2013 Yinglet Scout",
             "number": 49,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -971,13 +1054,15 @@
             "alias": "",
             "position": "45",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Leaftailed Trilopoid",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Insect Plant",
+            "type": "Creature \u2013 Insect Plant",
             "number": 52,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -992,13 +1077,15 @@
             "alias": "",
             "position": "46",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Treetop Guardians",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Yinglet Scout",
+            "type": "Creature \u2013 Yinglet Scout",
             "number": 56,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -1013,13 +1100,15 @@
             "alias": "",
             "position": "47",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tiplod",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Insect",
+            "type": "Creature \u2013 Insect",
             "number": 55,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -1034,7 +1123,9 @@
             "alias": "",
             "position": "48",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "[Creature, Medium]",
@@ -1055,13 +1146,15 @@
             "alias": "",
             "position": "49",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Osseous Rex",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Beast",
+            "type": "Creature \u2013 Beast",
             "number": 53,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
@@ -1076,7 +1169,9 @@
             "alias": "",
             "position": "50",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fully Grown",
@@ -1097,7 +1192,9 @@
             "alias": "",
             "position": "51",
             "rotated": false,
-            "notes": "Reprint"
+            "notes": "Reprint",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spider Food",
@@ -1118,7 +1215,9 @@
             "alias": "",
             "position": "52",
             "rotated": false,
-            "notes": "Reprint"
+            "notes": "Reprint",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Courage in Crisis",
@@ -1139,13 +1238,15 @@
             "alias": "",
             "position": "53",
             "rotated": false,
-            "notes": "Reprint"
+            "notes": "Reprint",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Street Rat",
             "color": "WU",
             "rarity": "common",
-            "type": "Creature \u2014 Yinglet",
+            "type": "Creature \u2013 Yinglet",
             "number": 63,
             "color_identity": "WU",
             "cost": "{WU}{WU}",
@@ -1160,13 +1261,15 @@
             "alias": "",
             "position": "54",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Enclave Informant",
             "color": "UB",
             "rarity": "common",
-            "type": "Creature \u2014 Yinglet",
+            "type": "Creature \u2013 Yinglet",
             "number": 61,
             "color_identity": "UB",
             "cost": "{1}{UB}",
@@ -1181,7 +1284,9 @@
             "alias": "",
             "position": "55",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Throw",
@@ -1202,13 +1307,15 @@
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kattajak's Hunters",
             "color": "RG",
             "rarity": "common",
-            "type": "Creature \u2014 Yinglet",
+            "type": "Creature \u2013 Yinglet",
             "number": 62,
             "color_identity": "RG",
             "cost": "{RG}{RG}",
@@ -1223,7 +1330,9 @@
             "alias": "",
             "position": "57",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sundering Growth",
@@ -1244,13 +1353,15 @@
             "alias": "",
             "position": "58",
             "rotated": false,
-            "notes": "Reprint"
+            "notes": "Reprint",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Syrupbloom",
             "color": "BG",
             "rarity": "common",
-            "type": "Creature \u2014 Fungus",
+            "type": "Creature \u2013 Fungus",
             "number": 65,
             "color_identity": "BG",
             "cost": "{BG}{BG}",
@@ -1265,7 +1376,9 @@
             "alias": "",
             "position": "59",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bioshift",
@@ -1286,13 +1399,15 @@
             "alias": "",
             "position": "60",
             "rotated": false,
-            "notes": "Reprint"
+            "notes": "Reprint",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Clams",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2014 Food",
+            "type": "Artifact \u2013 Food",
             "number": 70,
             "color_identity": "C",
             "cost": "{1}",
@@ -1307,13 +1422,15 @@
             "alias": "",
             "position": "61",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Yinglet Spear",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2014 Equipment",
+            "type": "Artifact \u2013 Equipment",
             "number": 71,
             "color_identity": "C",
             "cost": "{2}",
@@ -1328,7 +1445,9 @@
             "alias": "",
             "position": "62",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CZ-06",
@@ -1349,7 +1468,9 @@
             "alias": "",
             "position": "63",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CZ-07",
@@ -1370,7 +1491,9 @@
             "alias": "",
             "position": "64",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CZ-09",
@@ -1391,7 +1514,9 @@
             "alias": "",
             "position": "65",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CA-02",
@@ -1412,7 +1537,9 @@
             "alias": "",
             "position": "66",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CA-04",
@@ -1433,7 +1560,9 @@
             "alias": "",
             "position": "67",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CA-03",
@@ -1454,17 +1583,19 @@
             "alias": "",
             "position": "68",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Figgins, Patriarch of Trade",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2014 Elder Yinglet",
+            "type": "Legendary Creature \u2013 Elder Yinglet",
             "number": 5,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "{1}, {T}: Target opponent gains control of target artifact you control. If they do, choose one \u2014\n\u2022 Create a Food token.\n\u2022 Create a Treasure token.\n\u2022 Draw a card, then discard a card.",
+            "rules_text": "{1}, {T}: Target opponent gains control of target artifact you control. If they do, choose one \u2013\n\u2022 Create a Food token.\n\u2022 Create a Treasure token.\n\u2022 Draw a card, then discard a card.",
             "flavor_text": "[i][/i]",
             "pt": "0/3",
             "special_text": "",
@@ -1475,13 +1606,15 @@
             "alias": "",
             "position": "69",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nervous Prodigy",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Yinglet",
+            "type": "Creature \u2013 Yinglet",
             "number": 9,
             "color_identity": "W",
             "cost": "{W}",
@@ -1496,8 +1629,9 @@
             "alias": "",
             "position": "70",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         }
-    ],
-    "version": 1
+    ]
 }
