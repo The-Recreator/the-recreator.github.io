@@ -5,7 +5,7 @@
 			<name>OOPv0.1</name>
 			<longname>Universes Beyond: Out-of-Placers</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-30</releasedate>
+			<releasedate>2026-05-31</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -42,9 +42,9 @@
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CW88 Rootborn Defenses</name>
+			<name>CW11 Rootborn Defenses</name>
 			<text>Populate. Creatures you control gain indestructible until end of turn. (To populate, create a token that&apos;s a copy of a creature token you control.)</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/2.png" num="30">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/2.png" num="25">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -538,26 +538,10 @@ When this creature dies, put a +1/+1 counter on target creature you control.</te
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CW11 Combat Removal</name>
-			<text></text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/32.png" num="25">OOPv0.1</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>CW12 Arrest</name>
 			<text>Enchant creature
 Enchanted creature can&apos;t attack or block, and its activated abilities can&apos;t be activated.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/33.png" num="26">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/32.png" num="26">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -571,26 +555,28 @@ Enchanted creature can&apos;t attack or block, and its activated abilities can&a
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CW14 Disenchant</name>
-			<text></text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/34.png" num="28">OOPv0.1</set>
+			<name>CW14 Keep Out</name>
+			<text>Choose one —
+• Keep Out deals 4 damage to target tapped creature.
+• Destroy target enchantment.</text>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/33.png" num="28">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>CU01 Shieldrat</name>
 			<text>Tunneling (This creature can&apos;t be blocked except by creatures with tunneling or reach.)
 When this creature dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/35.png" num="45">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/34.png" num="45">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -607,7 +593,7 @@ When this creature dies, surveil 1. (Look at the top card of your library. You m
 		<card>
 			<name>CU02 Intrepid Intruder</name>
 			<text>This creature enters with your choice of a tunneling counter or a hexproof counter on it. (A creature with tunneling can&apos;t be blocked except by creatures with tunneling or reach.)</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/36.png" num="46">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/35.png" num="46">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -625,7 +611,7 @@ When this creature dies, surveil 1. (Look at the top card of your library. You m
 			<name>CU03 Val Salian Librarian</name>
 			<text>{1}, {T}: Draw a card, then discard a card.
 {2}, {T}: Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/37.png" num="47">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/36.png" num="47">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -643,7 +629,7 @@ When this creature dies, surveil 1. (Look at the top card of your library. You m
 			<name>CU04 Beizel&apos;s Scouts</name>
 			<text>Nimble (This creature can&apos;t be blocked by creatures with power 3 or greater.)
 When this creature enters, target player mills 2 cards. (They put the top 2 cards of their library into their graveyard.)</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/38.png" num="48">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/37.png" num="48">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -660,7 +646,7 @@ When this creature enters, target player mills 2 cards. (They put the top 2 card
 		<card>
 			<name>CU05 Student</name>
 			<text>When Student enters, educate. (Choose a counter on a permanent you control. Put a counter of that kind on target permanent you control.)</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/39.png" num="49">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/38.png" num="49">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -678,7 +664,7 @@ When this creature enters, target player mills 2 cards. (They put the top 2 card
 			<name>CU06 Baxxid Attendant</name>
 			<text>When this creature attacks, put a stun counter on it and draw a card.
 This creature can&apos;t be blocked as long as an artifact entered under your control this turn.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/40.png" num="50">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/39.png" num="50">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -695,7 +681,7 @@ This creature can&apos;t be blocked as long as an artifact entered under your co
 		<card>
 			<name>CU07 Baxxid Thief</name>
 			<text>This creature enters with your choice of a tunneling counter or a hexproof counter on it. (A creature with tunneling can&apos;t be blocked except by creatures with tunneling or reach.)</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/41.png" num="51">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/40.png" num="51">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -712,7 +698,7 @@ This creature can&apos;t be blocked as long as an artifact entered under your co
 		<card>
 			<name>CU08 Chase Inspiration</name>
 			<text>Target creature you control gets +0/+3 and gains hexproof until end of turn. (This permanent can&apos;t be the target of spells or abilities your opponents control.)</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/42.png" num="52">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/41.png" num="52">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -728,7 +714,7 @@ This creature can&apos;t be blocked as long as an artifact entered under your co
 		<card>
 			<name>CU09 Special Lesson</name>
 			<text>Counter target spell. Educate. (Choose a counter on a permanent you control. Put a counter of that kind on target permanent you control.)</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/43.png" num="53">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/42.png" num="53">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -744,7 +730,7 @@ This creature can&apos;t be blocked as long as an artifact entered under your co
 		<card>
 			<name>CU11 Genetics Research</name>
 			<text>Draw two cards. Educate. (Choose a counter on a permanent you control. Put a counter of that kind on target permanent you control.)</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/44.png" num="55">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/43.png" num="55">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -762,7 +748,7 @@ This creature can&apos;t be blocked as long as an artifact entered under your co
 			<text>Enchant creature
 When this Aura enters, tap enchanted creature.
 Enchanted creature can&apos;t become untapped and can&apos;t have counters put on it.</text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/45.png" num="69">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/44.png" num="69">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -778,7 +764,7 @@ Enchanted creature can&apos;t become untapped and can&apos;t have counters put o
 		<card>
 			<name>CU13 Lost to Antiquity</name>
 			<text>The owner of target nonland permanent puts it into their library second from the top or on the bottom. Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/46.png" num="57">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/45.png" num="57">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -794,7 +780,7 @@ Enchanted creature can&apos;t become untapped and can&apos;t have counters put o
 		<card>
 			<name>CU14 Cite Regulations</name>
 			<text>Counter target spell unless its controller pays {2}. If they do, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/47.png" num="58">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/46.png" num="58">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -811,7 +797,7 @@ Enchanted creature can&apos;t become untapped and can&apos;t have counters put o
 			<name>CB01 Rattergnat</name>
 			<text>Flying
 When this creature dies, put a poison counter on target player. (A player with ten or more poison counters loses the game.)</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/48.png" num="73">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/47.png" num="73">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -828,7 +814,7 @@ When this creature dies, put a poison counter on target player. (A player with t
 		<card>
 			<name>CB02</name>
 			<text></text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/49.png" num="74">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/48.png" num="74">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -844,7 +830,7 @@ When this creature dies, put a poison counter on target player. (A player with t
 		<card>
 			<name>CB03 Swamp Dweller</name>
 			<text>This creature enters with your choice of a deathtouch counter or a lifelink counter on it.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/50.png" num="75">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/49.png" num="75">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -862,7 +848,7 @@ When this creature dies, put a poison counter on target player. (A player with t
 			<name>UB88 Poison Boy</name>
 			<text>When this creature enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
 Whenever you sacrifice a Food, target opponent gets two poison counters. (A player with ten or more poison counters loses the game.)</text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/51.png" num="101">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/50.png" num="101">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -879,7 +865,7 @@ Whenever you sacrifice a Food, target opponent gets two poison counters. (A play
 		<card>
 			<name>CB05</name>
 			<text></text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/52.png" num="77">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/51.png" num="77">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -896,7 +882,7 @@ Whenever you sacrifice a Food, target opponent gets two poison counters. (A play
 			<name>CB06 Baxxid Pariah</name>
 			<text>Menace
 When this creature enters, target opponent loses 3 life unless they sacrifice a nonland permanent or discard a card.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/53.png" num="78">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/52.png" num="78">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -913,7 +899,7 @@ When this creature enters, target opponent loses 3 life unless they sacrifice a 
 		<card>
 			<name>CB07</name>
 			<text></text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/54.png" num="79">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/53.png" num="79">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -930,7 +916,7 @@ When this creature enters, target opponent loses 3 life unless they sacrifice a 
 			<name>CB08 Blitz Leech</name>
 			<text>Flash
 When this creature enters, target creature an opponent controls gets -2/-2 until end of turn. Remove all counters from that creature.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/55.png" num="80">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/54.png" num="80">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -948,7 +934,7 @@ When this creature enters, target creature an opponent controls gets -2/-2 until
 			<name>CB09 Dead Weight</name>
 			<text>Enchant creature
 Enchanted creature gets -2/-2.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/56.png" num="81">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/55.png" num="81">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -964,7 +950,7 @@ Enchanted creature gets -2/-2.</text>
 		<card>
 			<name>CB10 Stab</name>
 			<text>Target creature gets -2/-2 until end of turn.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/57.png" num="82">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/56.png" num="82">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -980,7 +966,7 @@ Enchanted creature gets -2/-2.</text>
 		<card>
 			<name>CB11 Dwell on Hopelessness</name>
 			<text>Target player mills 2 cards, draws 2 cards, and loses 2 life. Remove a counter from up to one target creature. (To mill 2 cards, they put the top 2 cards of their library into their graveyard.)</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/58.png" num="83">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/57.png" num="83">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -994,25 +980,25 @@ Enchanted creature gets -2/-2.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CB12 Coercion+</name>
-			<text></text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/59.png" num="84">OOPv0.1</set>
+			<name>CB12 Lost in Deep Thought</name>
+			<text>Target player reveals their hand. You choose a nonland card from it and exile that card. Put a +1/+1 counter on up to one target creature you control.</text>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/58.png" num="84">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>CB13 Bake Into a Pie</name>
 			<text>Destroy target creature. Create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/60.png" num="85">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/59.png" num="85">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1028,7 +1014,7 @@ Enchanted creature gets -2/-2.</text>
 		<card>
 			<name>CB14 Sorrowful Accident</name>
 			<text>Exile target creature. Put a menace counter on a creature you control.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/61.png" num="86">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/60.png" num="86">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1044,7 +1030,7 @@ Enchanted creature gets -2/-2.</text>
 		<card>
 			<name>CR01 Longrat</name>
 			<text>{T}: This creature deals 1 damage to target player.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/62.png" num="102">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/61.png" num="102">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1061,7 +1047,7 @@ Enchanted creature gets -2/-2.</text>
 		<card>
 			<name>CR02 Freelance Scavenger</name>
 			<text>When this creature enters, salvage 1. (Create a Junk token or return target artifact with mana value 1 or less from your graveyard to your hand.)</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/63.png" num="103">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/62.png" num="103">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1078,7 +1064,7 @@ Enchanted creature gets -2/-2.</text>
 		<card>
 			<name>CR03</name>
 			<text></text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/64.png" num="104">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/63.png" num="104">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1094,7 +1080,7 @@ Enchanted creature gets -2/-2.</text>
 		<card>
 			<name>CR04 Homeland Conqueror</name>
 			<text>During your turn, this creature has first strike.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/65.png" num="105">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/64.png" num="105">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1111,7 +1097,7 @@ Enchanted creature gets -2/-2.</text>
 		<card>
 			<name>CR05</name>
 			<text></text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/66.png" num="106">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/65.png" num="106">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1127,7 +1113,7 @@ Enchanted creature gets -2/-2.</text>
 		<card>
 			<name>CR06 Street Tough Gang</name>
 			<text>This creature enters with your choice of a trample counter or a menace counter on it.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/67.png" num="107">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/66.png" num="107">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1145,7 +1131,7 @@ Enchanted creature gets -2/-2.</text>
 			<name>CR07 Mountain Glider</name>
 			<text>Flying
 When this creature enters, you may discard a card. If you do, draw a card.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/68.png" num="108">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/67.png" num="108">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1162,7 +1148,7 @@ When this creature enters, you may discard a card. If you do, draw a card.</text
 		<card>
 			<name>CR08</name>
 			<text></text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/69.png" num="109">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/68.png" num="109">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1179,7 +1165,7 @@ When this creature enters, you may discard a card. If you do, draw a card.</text
 			<name>CR09 Fling</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 Fling deals damage equal to the sacrificed creature&apos;s power to any target.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/70.png" num="110">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/69.png" num="110">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1195,7 +1181,7 @@ Fling deals damage equal to the sacrificed creature&apos;s power to any target.<
 		<card>
 			<name>CR10 Heightened Reflexes</name>
 			<text>Target creature gets +1/+0 until end of turn. Put a first strike counter on it.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/71.png" num="111">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/70.png" num="111">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1212,7 +1198,7 @@ Fling deals damage equal to the sacrificed creature&apos;s power to any target.<
 			<name>CR11 Cathartic Reunion</name>
 			<text>As an additional cost to cast this spell, discard two cards.
 Draw three cards.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/72.png" num="112">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/71.png" num="112">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1230,7 +1216,7 @@ Draw three cards.</text>
 			<text>Choose one —
 • Abrade deals 3 damage to target creature.
 • Destroy target artifact.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/73.png" num="113">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/72.png" num="113">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1246,7 +1232,7 @@ Draw three cards.</text>
 		<card>
 			<name>CR13 4 Direct Damage</name>
 			<text></text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/74.png" num="114">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/73.png" num="114">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1262,7 +1248,7 @@ Draw three cards.</text>
 		<card>
 			<name>CR14 6 Direct Damage</name>
 			<text></text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/75.png" num="115">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/74.png" num="115">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1279,7 +1265,7 @@ Draw three cards.</text>
 			<name>CG01 Bushrat</name>
 			<text>Trample
 {3}{G}: Bushrat gets +3/+3 until end of turn.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/76.png" num="131">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/75.png" num="131">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1296,7 +1282,7 @@ Draw three cards.</text>
 		<card>
 			<name>CG02 Caravan Sentry</name>
 			<text>When this creature enters, search your library for a basic land, reveal it, put it into your hand, then shuffle.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/77.png" num="132">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/76.png" num="132">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1313,7 +1299,7 @@ Draw three cards.</text>
 		<card>
 			<name>CG03</name>
 			<text></text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/78.png" num="133">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/77.png" num="133">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1329,7 +1315,7 @@ Draw three cards.</text>
 		<card>
 			<name>CG04 Leaftailed Trilopoid</name>
 			<text>Deathtouch</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/79.png" num="134">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/78.png" num="134">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1346,7 +1332,7 @@ Draw three cards.</text>
 		<card>
 			<name>CG05</name>
 			<text></text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/80.png" num="135">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/79.png" num="135">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1360,13 +1346,13 @@ Draw three cards.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CG06</name>
-			<text></text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/81.png" num="136">OOPv0.1</set>
+			<name>CG06 Banquet Hosts</name>
+			<text>When this creature enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/80.png" num="136">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Yinglet</type>
 				<maintype>Creature</maintype>
 				<manacost>2G</manacost>
 				<cmc>3</cmc>
@@ -1379,7 +1365,7 @@ Draw three cards.</text>
 		<card>
 			<name>CG07 Tiplod</name>
 			<text>When this creature dies, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/82.png" num="137">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/81.png" num="137">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1396,7 +1382,7 @@ Draw three cards.</text>
 		<card>
 			<name>CG08 Enclave Guards</name>
 			<text>This creature enters with your choice of a vigilance counter or a reach counter on it.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/83.png" num="138">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/82.png" num="138">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1413,7 +1399,7 @@ Draw three cards.</text>
 		<card>
 			<name>CG09 Osseous Rex</name>
 			<text>Reach, trample</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/84.png" num="139">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/83.png" num="139">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1430,7 +1416,7 @@ Draw three cards.</text>
 		<card>
 			<name>CG10 Fight Spell</name>
 			<text></text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/85.png" num="140">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/84.png" num="140">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1446,7 +1432,7 @@ Draw three cards.</text>
 		<card>
 			<name>CG11 Bite Spell</name>
 			<text></text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/86.png" num="141">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/85.png" num="141">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1462,7 +1448,7 @@ Draw three cards.</text>
 		<card>
 			<name>CG12 Fully Grown</name>
 			<text>Target creature gets +3/+3 until end of turn. Put a trample counter on it.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/87.png" num="142">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/86.png" num="142">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1478,7 +1464,7 @@ Draw three cards.</text>
 		<card>
 			<name>CG13 Mana Acceleration</name>
 			<text></text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/88.png" num="143">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/87.png" num="143">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1494,7 +1480,7 @@ Draw three cards.</text>
 		<card>
 			<name>CG14 Dig for Lands/Creatures</name>
 			<text>Mill four cards. You may put a permanent card from among the cards milled this way. If you control a Yinglet or returned a Yinglet card to your hand this way, create a Food token. (To mill four cards, put the top four cards of your library into your graveyard. A Food token is an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/89.png" num="144">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/88.png" num="144">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1513,7 +1499,7 @@ Draw three cards.</text>
 • Create a Food token.
 • Create a Treasure token.
 • Draw a card, then discard a card.</text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/90.png" num="37">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/89.png" num="37">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1530,7 +1516,7 @@ Draw three cards.</text>
 		<card>
 			<name>UW02</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/91.png" num="38">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/90.png" num="38">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1546,7 +1532,7 @@ Draw three cards.</text>
 		<card>
 			<name>UW03</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/92.png" num="39">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/91.png" num="39">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1562,7 +1548,7 @@ Draw three cards.</text>
 		<card>
 			<name>UW04</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/93.png" num="40">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/92.png" num="40">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1578,7 +1564,7 @@ Draw three cards.</text>
 		<card>
 			<name>UW05</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/94.png" num="41">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/93.png" num="41">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1594,7 +1580,7 @@ Draw three cards.</text>
 		<card>
 			<name>UW06</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/95.png" num="42">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/94.png" num="42">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1610,7 +1596,7 @@ Draw three cards.</text>
 		<card>
 			<name>UW07</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/96.png" num="43">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/95.png" num="43">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1629,7 +1615,7 @@ Draw three cards.</text>
 • Put a +1/+1 counter on target creature you control.
 • Tap target creature an opponent controls.
 • Educate. (Choose a counter on a permanent you control. Put a counter of that kind on target permanent you control.)</text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/97.png" num="44">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/96.png" num="44">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1646,7 +1632,7 @@ Draw three cards.</text>
 			<name>UU01 Beizel, Patriarch of Scouting</name>
 			<text>Tunneling (This creature can&apos;t be blocked except by creatures with tunneling or reach.)
 Whenever one or more creatures you control deal combat damage to a player, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/98.png" num="65">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/97.png" num="65">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1663,7 +1649,7 @@ Whenever one or more creatures you control deal combat damage to a player, inves
 		<card>
 			<name>UU07 Contest of Wills</name>
 			<text>Counter target spell unless its controller pays {X}. Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/99.png" num="71">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/98.png" num="71">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1677,25 +1663,26 @@ Whenever one or more creatures you control deal combat damage to a player, inves
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UU03</name>
+			<name>UU03 Ivenmoth Spymaster</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/100.png" num="67">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/99.png" num="67">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Creature — Human Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>UU04</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/101.png" num="68">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/100.png" num="68">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1711,7 +1698,7 @@ Whenever one or more creatures you control deal combat damage to a player, inves
 		<card>
 			<name>UU06 Thist for Discovery</name>
 			<text>Draw three cards. Then discard two cards unless you discard a basic land card.</text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/102.png" num="70">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/101.png" num="70">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1730,7 +1717,7 @@ Whenever one or more creatures you control deal combat damage to a player, inves
 Whenever you sacrifice a Clue, choose one—
 • Target player mills 3 cards. (They put the top 3 cards of their library into their graveyard.)
 • Put a +1/+1 counter on target creature.</text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/103.png" num="66">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/102.png" num="66">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1748,7 +1735,7 @@ Whenever you sacrifice a Clue, choose one—
 			<name>UU08 Curious Inquiry</name>
 			<text>Enchant creature
 Enchanted creature gets +1/+1 and has &quot;Whenever this creature deals combat damage to a player, investigate.&quot; (To investigate, create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/104.png" num="72">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/103.png" num="72">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1764,7 +1751,7 @@ Enchanted creature gets +1/+1 and has &quot;Whenever this creature deals combat 
 		<card>
 			<name>UB01 Chakki, Patriarch of Farming</name>
 			<text>Other creatures you control have &quot;{1}, {T}, Mill a card: Create a Food token.&quot; (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/105.png" num="93">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/104.png" num="93">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1782,7 +1769,7 @@ Enchanted creature gets +1/+1 and has &quot;Whenever this creature deals combat 
 			<name>UB02 Thyppid</name>
 			<text>{1}, {T}: Create a copy of this creature.
 {1}, Sacrifice this creature: You may search your library for a Food card, reveal it, put it into your hand, then shuffle. If you don&apos;t put a card into your hand this way, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/106.png" num="94">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/105.png" num="94">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1799,7 +1786,7 @@ Enchanted creature gets +1/+1 and has &quot;Whenever this creature deals combat 
 		<card>
 			<name>UB03</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/107.png" num="95">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/106.png" num="95">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1815,7 +1802,7 @@ Enchanted creature gets +1/+1 and has &quot;Whenever this creature deals combat 
 		<card>
 			<name>UB04</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/108.png" num="96">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/107.png" num="96">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1831,7 +1818,7 @@ Enchanted creature gets +1/+1 and has &quot;Whenever this creature deals combat 
 		<card>
 			<name>UB05</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/109.png" num="97">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/108.png" num="97">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1847,7 +1834,7 @@ Enchanted creature gets +1/+1 and has &quot;Whenever this creature deals combat 
 		<card>
 			<name>UB06</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/110.png" num="98">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/109.png" num="98">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1863,7 +1850,7 @@ Enchanted creature gets +1/+1 and has &quot;Whenever this creature deals combat 
 		<card>
 			<name>UB07</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/111.png" num="99">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/110.png" num="99">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1879,7 +1866,7 @@ Enchanted creature gets +1/+1 and has &quot;Whenever this creature deals combat 
 		<card>
 			<name>UB08</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/112.png" num="100">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/111.png" num="100">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1896,7 +1883,7 @@ Enchanted creature gets +1/+1 and has &quot;Whenever this creature deals combat 
 			<name>UR01 Kattajak, Patriarch of Hunting</name>
 			<text>Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters with a +1/+1 counter on it.)
 Raid - At the beginning of your second main phase, if you attacked this turn, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/113.png" num="123">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/112.png" num="123">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1913,7 +1900,7 @@ Raid - At the beginning of your second main phase, if you attacked this turn, cr
 		<card>
 			<name>UR02</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/114.png" num="124">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/113.png" num="124">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1929,7 +1916,7 @@ Raid - At the beginning of your second main phase, if you attacked this turn, cr
 		<card>
 			<name>UR03</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/115.png" num="125">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/114.png" num="125">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1945,7 +1932,7 @@ Raid - At the beginning of your second main phase, if you attacked this turn, cr
 		<card>
 			<name>UR04</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/116.png" num="126">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/115.png" num="126">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1962,7 +1949,7 @@ Raid - At the beginning of your second main phase, if you attacked this turn, cr
 			<name>UR05 Galvanic Blast</name>
 			<text>Galvanic Blast deals 2 damage to any target.
 Metalcraft — Galvanic Blast deals 4 damage instead if you control three or more artifacts.</text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/117.png" num="127">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/116.png" num="127">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1978,7 +1965,7 @@ Metalcraft — Galvanic Blast deals 4 damage instead if you control three or mor
 		<card>
 			<name>UR06</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/118.png" num="128">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/117.png" num="128">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1995,7 +1982,7 @@ Metalcraft — Galvanic Blast deals 4 damage instead if you control three or mor
 			<name>UR07 Trash for Treasure</name>
 			<text>As an additional cost to cast this spell, sacrifice an artifact.
 Return target artifact card from your graveyard to the battlefield.</text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/119.png" num="129">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/118.png" num="129">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2011,7 +1998,7 @@ Return target artifact card from your graveyard to the battlefield.</text>
 		<card>
 			<name>UR08</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/120.png" num="130">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/119.png" num="130">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2028,7 +2015,7 @@ Return target artifact card from your graveyard to the battlefield.</text>
 			<name>UG01 Poak, Patriarch of Foodstuffs</name>
 			<text>If one or more tokens would be created under your control, those tokens plus an additional Food token are created instead. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
 Sacrifice three Foods: Draw a card.</text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/121.png" num="153">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/120.png" num="153">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2045,7 +2032,7 @@ Sacrifice three Foods: Draw a card.</text>
 		<card>
 			<name>UG02</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/122.png" num="154">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/121.png" num="154">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2061,7 +2048,7 @@ Sacrifice three Foods: Draw a card.</text>
 		<card>
 			<name>UG03</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/123.png" num="155">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/122.png" num="155">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2077,7 +2064,7 @@ Sacrifice three Foods: Draw a card.</text>
 		<card>
 			<name>UG04</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/124.png" num="156">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/123.png" num="156">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2094,7 +2081,7 @@ Sacrifice three Foods: Draw a card.</text>
 			<name>UG05 Innkeeper</name>
 			<text>When Innkeeper enters, create a Food token.
 {G}, Sacrifice a Food: Put a +1/+1 counter on target creature. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/125.png" num="157">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/124.png" num="157">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2111,7 +2098,7 @@ Sacrifice three Foods: Draw a card.</text>
 		<card>
 			<name>UG06</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/126.png" num="158">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/125.png" num="158">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2127,7 +2114,7 @@ Sacrifice three Foods: Draw a card.</text>
 		<card>
 			<name>UG07</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/127.png" num="159">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/126.png" num="159">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2143,7 +2130,7 @@ Sacrifice three Foods: Draw a card.</text>
 		<card>
 			<name>UG08</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/128.png" num="160">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/127.png" num="160">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2161,7 +2148,7 @@ Sacrifice three Foods: Draw a card.</text>
 			<text>Vigilance
 Whenever Elim is dealt damage, put a +1/+1 counter on him. If you do, another target creature you control gets indestructible until end of turn. (Elim must survive the damage to get the counter.)
 Partner - Research group (You can have two commanders if both have this ability.)</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/129.png" num="32">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/128.png" num="31">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2179,7 +2166,7 @@ Partner - Research group (You can have two commanders if both have this ability.
 			<name>RW02 Nervous Prodigy</name>
 			<text>Offspring {1} (You may pay an additional {1} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
 Whenever this creature is targeted by a spell, it phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/130.png" num="33">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/129.png" num="32">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2196,7 +2183,7 @@ Whenever this creature is targeted by a spell, it phases out. (Treat it and anyt
 		<card>
 			<name>RW03 Ivenmoth Counselor</name>
 			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/131.png" num="34">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/130.png" num="33">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2210,42 +2197,44 @@ Whenever this creature is targeted by a spell, it phases out. (Treat it and anyt
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>RW04 Head Surgeon Merrs</name>
-			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/132.png" num="35">OOPv0.1</set>
+			<name>RW04 Merrs, Head Surgeon</name>
+			<text>Merrs enters with a +1/+1 counter on him.
+Once during each of your turns, you may cast a creature spell from your graveyard with mana value less than or equal to the number of counters on Merrs. Whenever you do, educate. (Choose a counter on a permanent you control. Put a counter of that kind on target permanent you control.)</text>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/131.png" num="34">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Human Doctor</type>
 				<maintype>Creature</maintype>
-				<manacost>W</manacost>
-				<cmc>1</cmc>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RW05</name>
-			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/133.png" num="36">OOPv0.1</set>
+			<name>RW05 Damning Verdict</name>
+			<text>Destroy all creatures with no counters on them.</text>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/132.png" num="35">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>RU01 Ran Ste-Su G&apos;Mindel</name>
 			<text>Whenever you cast a creature or artifact spell, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
 Activated abilities of Clues you control cost {1} less to activate while you control a non-Human creature. This effect can&apos;t reduce the mana in that cost to less than one mana.</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/134.png" num="60">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/133.png" num="60">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2263,7 +2252,7 @@ Activated abilities of Clues you control cost {1} less to activate while you con
 			<name>RU02 Voracious Reader</name>
 			<text>Offspring {2}{U} (You may pay an additional {2}{U} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
 {1}, {T}: Draw a card, then if this is the first time you have activated this ability this turn, discard a card.</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/135.png" num="61">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/134.png" num="61">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2280,7 +2269,7 @@ Activated abilities of Clues you control cost {1} less to activate while you con
 		<card>
 			<name>RU03</name>
 			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/136.png" num="62">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/135.png" num="62">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2296,7 +2285,7 @@ Activated abilities of Clues you control cost {1} less to activate while you con
 		<card>
 			<name>RU04</name>
 			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/137.png" num="63">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/136.png" num="63">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2312,7 +2301,7 @@ Activated abilities of Clues you control cost {1} less to activate while you con
 		<card>
 			<name>RB01</name>
 			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/138.png" num="88">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/137.png" num="88">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2329,7 +2318,7 @@ Activated abilities of Clues you control cost {1} less to activate while you con
 			<name>RB02 Fashionable Matron</name>
 			<text>Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
 When this creature enters, salvage 3. (Create a Junk token or return target artifact with mana value 3 or less from your graveyard to your hand.)</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/139.png" num="89">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/138.png" num="89">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2346,7 +2335,7 @@ When this creature enters, salvage 3. (Create a Junk token or return target arti
 		<card>
 			<name>RB03</name>
 			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/140.png" num="90">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/139.png" num="90">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2362,7 +2351,7 @@ When this creature enters, salvage 3. (Create a Junk token or return target arti
 		<card>
 			<name>RB04 Entomb</name>
 			<text>Search your library for a card, put that card into your graveyard, then shuffle.</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/141.png" num="91">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/140.png" num="91">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2381,7 +2370,7 @@ When this creature enters, salvage 3. (Create a Junk token or return target arti
 I — Exile each opponent&apos;s graveyard.
 II — You become the monarch.
 III — Remove all counters from all other permanents.</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/142.png" num="92">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/141.png" num="92">OOPv0.1</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -2397,7 +2386,7 @@ III — Remove all counters from all other permanents.</text>
 		<card>
 			<name>RR01</name>
 			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/143.png" num="118">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/142.png" num="118">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2415,7 +2404,7 @@ III — Remove all counters from all other permanents.</text>
 			<text>Offspring {2}, offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it. Then do this again.)
 Riot (This creature enters with your choice of a +1/+1 counter or haste.)
 First strike</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/144.png" num="119">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/143.png" num="119">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2432,7 +2421,7 @@ First strike</text>
 		<card>
 			<name>RR03</name>
 			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/145.png" num="120">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/144.png" num="120">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2448,7 +2437,7 @@ First strike</text>
 		<card>
 			<name>RR04</name>
 			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/146.png" num="121">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/145.png" num="121">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2464,7 +2453,7 @@ First strike</text>
 		<card>
 			<name>RR05</name>
 			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/147.png" num="122">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/146.png" num="122">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2480,7 +2469,7 @@ First strike</text>
 		<card>
 			<name>RG01</name>
 			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/148.png" num="147">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/147.png" num="147">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2497,7 +2486,7 @@ First strike</text>
 			<name>RG02 Helpful Ingenue</name>
 			<text>Offspring {1}{G} (You may pay an additional {1}{G} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
 When this creature enters, distribute two +1/+1 counters among one or two target creatures you control.</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/149.png" num="148">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/148.png" num="148">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2514,7 +2503,7 @@ When this creature enters, distribute two +1/+1 counters among one or two target
 		<card>
 			<name>RG03</name>
 			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/150.png" num="149">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/149.png" num="149">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2530,7 +2519,7 @@ When this creature enters, distribute two +1/+1 counters among one or two target
 		<card>
 			<name>RG04</name>
 			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/151.png" num="150">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/150.png" num="150">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2546,7 +2535,7 @@ When this creature enters, distribute two +1/+1 counters among one or two target
 		<card>
 			<name>RG05</name>
 			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/152.png" num="151">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/151.png" num="151">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2563,7 +2552,7 @@ When this creature enters, distribute two +1/+1 counters among one or two target
 			<name>MW01 Luminous Broodmoth</name>
 			<text>Flying
 Whenever a creature you control without flying dies, return it to the battlefield under its owner&apos;s control with a flying counter on it.</text>
-			<set rarity="mythic" picurl="https://the-recreator/sets/OOPv0.1-files/img/153.png" num="31">OOPv0.1</set>
+			<set rarity="mythic" picurl="https://the-recreator/sets/OOPv0.1-files/img/152.png" num="30">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2580,7 +2569,7 @@ Whenever a creature you control without flying dies, return it to the battlefiel
 		<card>
 			<name>MU01 Show and Tell</name>
 			<text>Each player may put an artifact, creature, enchantment, or land card from their hand onto the battlefield.</text>
-			<set rarity="mythic" picurl="https://the-recreator/sets/OOPv0.1-files/img/154.png" num="59">OOPv0.1</set>
+			<set rarity="mythic" picurl="https://the-recreator/sets/OOPv0.1-files/img/153.png" num="59">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2596,7 +2585,7 @@ Whenever a creature you control without flying dies, return it to the battlefiel
 		<card>
 			<name>MB01</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://the-recreator/sets/OOPv0.1-files/img/155.png" num="87">OOPv0.1</set>
+			<set rarity="mythic" picurl="https://the-recreator/sets/OOPv0.1-files/img/154.png" num="87">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2612,7 +2601,7 @@ Whenever a creature you control without flying dies, return it to the battlefiel
 		<card>
 			<name>MR01</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://the-recreator/sets/OOPv0.1-files/img/156.png" num="117">OOPv0.1</set>
+			<set rarity="mythic" picurl="https://the-recreator/sets/OOPv0.1-files/img/155.png" num="117">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2629,7 +2618,7 @@ Whenever a creature you control without flying dies, return it to the battlefiel
 			<name>MG01 Craterhoof Behemoth</name>
 			<text>Haste
 When this creature enters, creatures you control gain trample and get +X/+X until end of turn, where X is the number of creatures you control.</text>
-			<set rarity="mythic" picurl="https://the-recreator/sets/OOPv0.1-files/img/157.png" num="146">OOPv0.1</set>
+			<set rarity="mythic" picurl="https://the-recreator/sets/OOPv0.1-files/img/156.png" num="146">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2646,7 +2635,7 @@ When this creature enters, creatures you control gain trample and get +X/+X unti
 		<card>
 			<name>UM01 Dinnlan Deserter</name>
 			<text>When Dinnlan Deserter enters or attacks, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/158.png" num="175">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/157.png" num="175">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2663,8 +2652,8 @@ When this creature enters, creatures you control gain trample and get +X/+X unti
 		<card>
 			<name>UM02 De-Facto Patriarch</name>
 			<text>Nimble (This creature can&apos;t be blocked by creatures with power 3 or greater.)
-When De-Facto Patriarch attacks, target player mills a card. If defending player controls a non-Yinglet creature, target player mills 2 cards instead.</text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/159.png" num="176">OOPv0.1</set>
+When De-Facto Patriarch attacks, target player mills 2 cards. If defending player controls a non-Yinglet creature, target player mills 3 cards instead.</text>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/158.png" num="176">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2679,68 +2668,74 @@ When De-Facto Patriarch attacks, target player mills a card. If defending player
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UM03</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/160.png" num="177">OOPv0.1</set>
+			<name>UM03 Scavenger Leader</name>
+			<text>Remove a counter from among permanents you control: Salvage 3. (Create a Junk token or return target artifact with mana value 3 or less from your graveyard to your hand.)</text>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/159.png" num="177">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
+				<type>Creature — Yinglet</type>
+				<maintype>Creature</maintype>
 				<manacost>BR</manacost>
 				<cmc>2</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
+				<pt>1/3</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UM04</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/161.png" num="178">OOPv0.1</set>
+			<name>UM04 Food Fighters</name>
+			<text>Trample
+This creature&apos;s power is equal to the number of Foods you control.
+Sacrifice a Food: Target creature you control fights target creature you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/160.png" num="178">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost>RG</manacost>
-				<cmc>2</cmc>
+				<type>Creature — Yinglet Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
 				<colors>RG</colors>
 				<coloridentity>RG</coloridentity>
+				<pt>*/3</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UM05</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/162.png" num="179">OOPv0.1</set>
+			<name>UM05 Hatchery Nurse</name>
+			<text>Whenever you create a token, populate. Whenever you put a counter on a creature you control, educate. (To populate, create a token that&apos;s a copy of a creature token you control. To educate, choose a counter on a permanent you control. Put a counter of that kind on target permanent you control.)</text>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/161.png" num="179">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
+				<type>Creature — Yinglet</type>
+				<maintype>Creature</maintype>
 				<manacost>GW</manacost>
 				<cmc>2</cmc>
 				<colors>WG</colors>
 				<coloridentity>WG</coloridentity>
+				<pt>1/2</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UM06</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/163.png" num="180">OOPv0.1</set>
+			<name>UM06 Unscrupulous Merchant</name>
+			<text>Sacrifice another creature or artifact token: Put a +1/+1 counter on Unscrupulous Merchant.</text>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/162.png" num="180">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost>WB</manacost>
-				<cmc>2</cmc>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
 				<colors>WB</colors>
 				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>UM07 Metalwork Artisan</name>
@@ -2748,7 +2743,7 @@ When De-Facto Patriarch attacks, target player mills a card. If defending player
 Whenever an artifact you control enters, choose one—
 • Put a +1/+1 counter on target creature.
 • Educate. (Choose a counter on a permanent you control. Put a counter of that kind on target permanent you control.)</text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/164.png" num="181">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/163.png" num="181">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2763,14 +2758,15 @@ Whenever an artifact you control enters, choose one—
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UM08</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/165.png" num="182">OOPv0.1</set>
+			<name>UM08 Salt-Grass</name>
+			<text>Creature tokens and Food tokens you control have &quot;{T}: Add one mana of any color.&quot;
+Whenever you sacrifice one or more permanents, create a 0/1 green Plant creature token, then put a +1/+1 counter on each Plant you control.</text>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/164.png" num="182">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
 				<manacost>BG</manacost>
 				<cmc>2</cmc>
 				<colors>BG</colors>
@@ -2779,32 +2775,33 @@ Whenever an artifact you control enters, choose one—
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UM09</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/166.png" num="183">OOPv0.1</set>
+			<name>UM09 Dig Site Foreman</name>
+			<text>Whenever an artifact you control enters, populate. Do this only once per turn. (To populate, create a token that&apos;s a copy of a creature token you control.)</text>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/165.png" num="183">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost>RW</manacost>
-				<cmc>2</cmc>
+				<type>Creature — Human Officer</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UM10</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/167.png" num="184">OOPv0.1</set>
+			<name>UM10 Primal Empathy</name>
+			<text>At the beginning of your upkeep, draw a card if you control a creature with the greatest power among creatures on the battlefield. Otherwise, put a +1/+1 counter on a creature you control.</text>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/166.png" num="184">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost>GU</manacost>
-				<cmc>2</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
 				<colors>UG</colors>
 				<coloridentity>UG</coloridentity>
 			</prop>
@@ -2813,7 +2810,7 @@ Whenever an artifact you control enters, choose one—
 		<card>
 			<name>RM01</name>
 			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/168.png" num="165">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/167.png" num="165">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2827,19 +2824,21 @@ Whenever an artifact you control enters, choose one—
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>RM02 Coercive Mentor</name>
-			<text>Whenever you educate, you may choose counters on permanents your opponents control and target permanents your opponents control. (To educate, choose a counter on a permanent you control. Put a counter of that kind on target permanent you control.)</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/169.png" num="166">OOPv0.1</set>
+			<name>RM02 Lady Talleraine</name>
+			<text>Ward—Pay 2 life.
+When Lady Talleraine enters, tap target creature an opponent controls and put a stun counter on it.
+Whenever an opponent removes a stun counter from a creature they control, they mill a card.</text>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/168.png" num="166">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human</type>
+				<type>Legendary Creature — Human Noble</type>
 				<maintype>Creature</maintype>
 				<manacost>1UB</manacost>
 				<cmc>3</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
-				<pt>2/3</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2847,7 +2846,7 @@ Whenever an artifact you control enters, choose one—
 			<name>RM03 Brakka, Street Exile</name>
 			<text>When Brakka enters, create a Junk token.
 Whenever Brakka deals combat damage, you may have target opponent gain control of target permanent you control. When you do, draw a card, lose 2 life, and Brakka phases out until your next turn.</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/170.png" num="167">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/169.png" num="167">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2866,7 +2865,7 @@ Whenever Brakka deals combat damage, you may have target opponent gain control o
 			<text>When Lopin enters, salvage 2.
 Whenever you cast a spell from exile or a permanent you control enters from exile, create a Food token.
 Partner—Research group (You can have two commanders if both have this ability.)</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/171.png" num="168">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/170.png" num="168">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2885,7 +2884,7 @@ Partner—Research group (You can have two commanders if both have this ability.
 			<text>Affinity for Allies (This spell costs {1} less to cast for each Ally you control.)
 {GW}, {T}, Remove a counter from Kassen Akoll: Assign a counter of that type to up to two other target creature you control. Draw a card.
 Partner—Research group (You can have two commanders if both have this ability.)</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/172.png" num="169">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/171.png" num="169">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2902,7 +2901,7 @@ Partner—Research group (You can have two commanders if both have this ability.
 		<card>
 			<name>RM06 Narklet, Patriarch of Scavenging</name>
 			<text>{T}, Remove X counters from among creatures you control: Salvage X. (Create a Junk token or return target artifact with mana value X or less from your graveyard to your hand.)</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/173.png" num="170">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/172.png" num="170">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2921,7 +2920,7 @@ Partner—Research group (You can have two commanders if both have this ability.
 			<text>Whenever you flip a coin, flip an additional coin for each counter on Kalgkur (maximum 3) and ignore all but one.
 Whenever Kalgkur attacks, flip a coin.When you win the flip, draw a card. When you lose the flip, double Kalgkur&apos;s power until end of turn.
 Partner—Research group (You can have two commanders if both have this ability.)</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/174.png" num="171">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/173.png" num="171">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2938,7 +2937,7 @@ Partner—Research group (You can have two commanders if both have this ability.
 		<card>
 			<name>RM08</name>
 			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/175.png" num="172">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/174.png" num="172">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2956,7 +2955,7 @@ Partner—Research group (You can have two commanders if both have this ability.
 			<text>Menace
 Whenever one or more cards leave your graveyard, exile the top card of your library. You may play that card this turn.
 Partner—Research group (You can have two commanders if both have this ability.)</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/176.png" num="173">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/175.png" num="173">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2976,7 +2975,7 @@ Partner—Research group (You can have two commanders if both have this ability.
 Yannit must attack each combat if able and must be blocked if able.
 {T}, Sacrifice a Clue or Food: Draw a card.
 Partner—Research group (You can have two commanders if both have this ability.)</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/177.png" num="174">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/176.png" num="174">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2995,7 +2994,7 @@ Partner—Research group (You can have two commanders if both have this ability.
 			<text>When this Equipment enters, create a 1/1 colorless Yinglet creature token and attach this Equipment to it.
 Equipped creature gets +1/+1.
 Equip {2}</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/178.png" num="196">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/177.png" num="196">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3009,7 +3008,7 @@ Equip {2}</text>
 		<card>
 			<name>CA04 Manalith+</name>
 			<text>{T}: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/179.png" num="199">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/178.png" num="199">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3025,7 +3024,7 @@ Equip {2}</text>
 			<text>When this artifact enters, exile target card from a graveyard.
 {T}, Sacrifice this artifact: Exile each opponent&apos;s graveyard.
 {2}, {T}, Sacrifice this artifact: Draw a card.</text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/180.png" num="205">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/179.png" num="205">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3041,7 +3040,7 @@ Equip {2}</text>
 			<text>Whenever equipped creature deals damage to a creature, tap that creature and put a stun counter on that creature.
 Equipped creature gets +1/+1.
 Equip creature with power 3 or greater {2}</text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/181.png" num="206">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/180.png" num="206">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3057,7 +3056,7 @@ Equip creature with power 3 or greater {2}</text>
 			<text>As this artifact enters, choose a creature type.
 Creatures you control of the chosen type get +1/+1.
 {T}: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/182.png" num="207">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/181.png" num="207">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3069,13 +3068,15 @@ Creatures you control of the chosen type get +1/+1.
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UA04 Living Weapon</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/183.png" num="208">OOPv0.1</set>
+			<name>UA04 Fishing Rod</name>
+			<text>Equipped creature has &quot;{1}, {T}, Tap Fishing Pole: Put a bait counter on Fishing Pole.&quot;
+Whenever equipped creature becomes untapped, remove a bait counter from this Equipment. If you do, create a 1/1 blue Fish creature token.
+Equip {2}</text>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/182.png" num="208">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact</type>
+				<type>Artifact — Equipment</type>
 				<maintype>Artifact</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -3085,7 +3086,7 @@ Creatures you control of the chosen type get +1/+1.
 		<card>
 			<name>UA05 Elixer of Immortality</name>
 			<text>{2}, {T}: You gain 5 life. Shuffle this artifact and your graveyard into their owner&apos;s library.</text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/184.png" num="209">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/183.png" num="209">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3100,7 +3101,7 @@ Creatures you control of the chosen type get +1/+1.
 			<name>RA01 Val Salian Library</name>
 			<text>Whenever a creature you control leaves the battlefield, if it had counters on it, put those counters on Val Salian Library.
 At the beginning of combat on your turn, if Val Salian Library has counters on it, you may move all counters from Val Salian Library onto target creature.</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/185.png" num="202">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/184.png" num="202">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3115,7 +3116,7 @@ At the beginning of combat on your turn, if Val Salian Library has counters on i
 			<name>RA02 The Val Salian Field Guide</name>
 			<text>At the beginning of your upkeep, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
 {T}, Sacrifice three Clues: Search your library for a card, put that card into your hand, then shuffle.</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/186.png" num="203">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/185.png" num="203">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3129,7 +3130,7 @@ At the beginning of combat on your turn, if Val Salian Library has counters on i
 		<card>
 			<name>RA03</name>
 			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/187.png" num="204">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/186.png" num="204">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3145,7 +3146,7 @@ At the beginning of combat on your turn, if Val Salian Library has counters on i
 			<text>This land enters tapped.
 When this land enters, you gain 1 life.
 {T}: Add {W} or {U}.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/188.png" num="210">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/187.png" num="210">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3162,7 +3163,7 @@ When this land enters, you gain 1 life.
 			<text>This land enters tapped.
 When this land enters, you gain 1 life.
 {T}: Add {U} or {B}.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/189.png" num="211">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/188.png" num="211">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3179,7 +3180,7 @@ When this land enters, you gain 1 life.
 			<text>This land enters tapped.
 When this land enters, you gain 1 life.
 {T}: Add {B} or {R}.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/190.png" num="212">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/189.png" num="212">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3196,7 +3197,7 @@ When this land enters, you gain 1 life.
 			<text>This land enters tapped.
 When this land enters, you gain 1 life.
 {T}: Add {R} or {G}.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/191.png" num="213">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/190.png" num="213">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3213,7 +3214,7 @@ When this land enters, you gain 1 life.
 			<text>This land enters tapped.
 When this land enters, you gain 1 life.
 {T}: Add {G} or {W}.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/192.png" num="214">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/191.png" num="214">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3230,7 +3231,7 @@ When this land enters, you gain 1 life.
 			<text>This land enters tapped.
 When this land enters, you gain 1 life.
 {T}: Add {W} or {B}.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/193.png" num="215">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/192.png" num="215">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3247,7 +3248,7 @@ When this land enters, you gain 1 life.
 			<text>This land enters tapped.
 When this land enters, you gain 1 life.
 {T}: Add {U} or {R}.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/194.png" num="216">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/193.png" num="216">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3264,7 +3265,7 @@ When this land enters, you gain 1 life.
 			<text>This land enters tapped.
 When this land enters, you gain 1 life.
 {T}: Add {B} or {G}.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/195.png" num="217">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/194.png" num="217">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3281,7 +3282,7 @@ When this land enters, you gain 1 life.
 			<text>This land enters tapped.
 When this land enters, you gain 1 life.
 {T}: Add {R} or {W}.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/196.png" num="218">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/195.png" num="218">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3298,7 +3299,7 @@ When this land enters, you gain 1 life.
 			<text>This land enters tapped.
 When this land enters, you gain 1 life.
 {T}: Add {G} or {U}.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/197.png" num="219">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/196.png" num="219">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3314,7 +3315,7 @@ When this land enters, you gain 1 life.
 			<name>CL11 Escape Tunnel</name>
 			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 {T}, Sacrifice this land: Target creature with power 2 or less can&apos;t be blocked this turn.</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/198.png" num="220">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/197.png" num="220">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3329,7 +3330,7 @@ When this land enters, you gain 1 life.
 			<name>RL01 Hallowed Fountain</name>
 			<text>({T}: Add {W} or {U}.)
 As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/199.png" num="221">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/198.png" num="221">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3345,7 +3346,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 			<name>RL02 Steam Vents</name>
 			<text>({T}: Add {U} or {R}.)
 As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/200.png" num="222">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/199.png" num="222">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3361,7 +3362,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 			<name>RL03 Blood Crypt</name>
 			<text>({T}: Add {B} or {R}.)
 As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/201.png" num="223">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/200.png" num="223">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3377,7 +3378,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 			<name>RL04 Overgrown Tomb</name>
 			<text>({T}: Add {B} or {G}.)
 As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/202.png" num="224">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/201.png" num="224">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3393,7 +3394,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 			<name>RL05 Temple Garden</name>
 			<text>({T}: Add {G} or {W}.)
 As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/203.png" num="225">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/202.png" num="225">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3408,7 +3409,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 		<card>
 			<name>UX01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/204.png" num="10">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/203.png" num="10">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3422,7 +3423,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 		<card>
 			<name>UX02</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/205.png" num="11">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/204.png" num="11">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3436,7 +3437,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 		<card>
 			<name>UX03</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/206.png" num="12">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/205.png" num="12">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3450,7 +3451,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 		<card>
 			<name>UX04</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/207.png" num="13">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/206.png" num="13">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3464,7 +3465,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 		<card>
 			<name>UX05</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/208.png" num="14">OOPv0.1</set>
+			<set rarity="uncommon" picurl="https://the-recreator/sets/OOPv0.1-files/img/207.png" num="14">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3478,7 +3479,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 		<card>
 			<name>RX01</name>
 			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/209.png" num="2">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/208.png" num="2">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3492,7 +3493,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 		<card>
 			<name>RX02</name>
 			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/210.png" num="3">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/209.png" num="3">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3506,7 +3507,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 		<card>
 			<name>RX03</name>
 			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/211.png" num="4">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/210.png" num="4">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3520,7 +3521,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 		<card>
 			<name>RX04</name>
 			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/212.png" num="5">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/211.png" num="5">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3534,7 +3535,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 		<card>
 			<name>RX05</name>
 			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/213.png" num="6">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/212.png" num="6">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3548,7 +3549,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 		<card>
 			<name>RX06</name>
 			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/214.png" num="7">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/213.png" num="7">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3562,7 +3563,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 		<card>
 			<name>RX07</name>
 			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/215.png" num="8">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/214.png" num="8">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3576,7 +3577,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 		<card>
 			<name>RX08</name>
 			<text></text>
-			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/216.png" num="9">OOPv0.1</set>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/215.png" num="9">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3592,7 +3593,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 			<text>Ward {2}
 When The Great Leader enters, reveal cards from the top of your library until you reveal a Yinglet card. You may put that card on the battlefield. Then shuffle.
 {3}: Gain control of target Yinglet. Activate only as a sorcery.</text>
-			<set rarity="mythic" picurl="https://the-recreator/sets/OOPv0.1-files/img/217.png" num="191">OOPv0.1</set>
+			<set rarity="mythic" picurl="https://the-recreator/sets/OOPv0.1-files/img/216.png" num="191">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3611,7 +3612,7 @@ When The Great Leader enters, reveal cards from the top of your library until yo
 			<text>Whenever you draw a card, put a +1/+1 counter on Viracroix Salia.
 {W}: Target player gains control of target Treasure you control. Create a Clue or Food token.
 {G}{W}, {T}, Sacrifice a Food: Creature tokens you control gain indestructible until end of turn. Tap them.</text>
-			<set rarity="mythic" picurl="https://the-recreator/sets/OOPv0.1-files/img/218.png" num="161">OOPv0.1</set>
+			<set rarity="mythic" picurl="https://the-recreator/sets/OOPv0.1-files/img/217.png" num="161">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3627,11 +3628,12 @@ When The Great Leader enters, reveal cards from the top of your library until yo
 		</card>
 		<card>
 			<name>MM03 Vizlet, Enclave Matriarch</name>
-			<text>Ward—Discard a card
-Whenever a Yinglet enters under your control or you draw a card, choose one—
+			<text>Ward—Discard a card.
+Whenever you draw a card or another Yinglet nontoken creature enters under your control, choose one that hasn&apos;t been chosen this turn—
+• Put a +1/+1 counter on target creature you control.
 • Populate.
 • Educate.</text>
-			<set rarity="mythic" picurl="https://the-recreator/sets/OOPv0.1-files/img/219.png" num="162">OOPv0.1</set>
+			<set rarity="mythic" picurl="https://the-recreator/sets/OOPv0.1-files/img/218.png" num="162">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3650,7 +3652,7 @@ Whenever a Yinglet enters under your control or you draw a card, choose one—
 			<text>Defender
 Devour tokens 2 (As this enters the battlefield, you may sacrifice any number of tokenses. This creature enters the battlefield with twice that many +1/+1 counters on it.)
 {R}, Remove a counter from this creature: Target creature you control fights another target creature.</text>
-			<set rarity="mythic" picurl="https://the-recreator/sets/OOPv0.1-files/img/220.png" num="163">OOPv0.1</set>
+			<set rarity="mythic" picurl="https://the-recreator/sets/OOPv0.1-files/img/219.png" num="163">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3668,7 +3670,7 @@ Devour tokens 2 (As this enters the battlefield, you may sacrifice any number of
 			<name>MM05 Zeska Riptooth, Bandit Leader</name>
 			<text>Whenever one or more outlaws you control deal combat damage to a player, exile the top card of that player&apos;s library. You may cast it. If you don&apos;t, salvage 1. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)
 Whenever you sacrifice one or more artifact tokens, educate.</text>
-			<set rarity="mythic" picurl="https://the-recreator/sets/OOPv0.1-files/img/221.png" num="164">OOPv0.1</set>
+			<set rarity="mythic" picurl="https://the-recreator/sets/OOPv0.1-files/img/220.png" num="164">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3685,7 +3687,7 @@ Whenever you sacrifice one or more artifact tokens, educate.</text>
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/222.png" num="226">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/221.png" num="226">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3700,7 +3702,7 @@ Whenever you sacrifice one or more artifact tokens, educate.</text>
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/223.png" num="227">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/222.png" num="227">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3715,7 +3717,7 @@ Whenever you sacrifice one or more artifact tokens, educate.</text>
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/224.png" num="228">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/223.png" num="228">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3730,7 +3732,7 @@ Whenever you sacrifice one or more artifact tokens, educate.</text>
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/225.png" num="229">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/224.png" num="229">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3745,7 +3747,7 @@ Whenever you sacrifice one or more artifact tokens, educate.</text>
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/226.png" num="230">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/225.png" num="230">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3762,7 +3764,7 @@ Whenever you sacrifice one or more artifact tokens, educate.</text>
 			<text>Flash
 Enchant creature
 Enchanted creature is a Yinglet with base power and toughness 0/1. It can&apos;t attack and loses all abilities. (It also loses all other creature types.)</text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/227.png" num="56">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/226.png" num="56">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3779,7 +3781,7 @@ Enchanted creature is a Yinglet with base power and toughness 0/1. It can&apos;t
 			<name>MA01 Zat Zhing</name>
 			<text>When this card enters, choose a creature type.
 {1}, {T}, Exile &quot;Zat Zhing&quot;: Target creature becomes a 1/1 creature of the chosen type and loses all other creature types. Artifact tokens you control become 0/1 artifact creatures of the chosen type. Activate only as a sorcery.</text>
-			<set rarity="mythic" picurl="https://the-recreator/sets/OOPv0.1-files/img/228.png" num="201">OOPv0.1</set>
+			<set rarity="mythic" picurl="https://the-recreator/sets/OOPv0.1-files/img/227.png" num="201">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3793,7 +3795,7 @@ Enchanted creature is a Yinglet with base power and toughness 0/1. It can&apos;t
 		<card>
 			<name>CB04</name>
 			<text></text>
-			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/229.png" num="76">OOPv0.1</set>
+			<set rarity="common" picurl="https://the-recreator/sets/OOPv0.1-files/img/228.png" num="76">OOPv0.1</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3805,6 +3807,24 @@ Enchanted creature is a Yinglet with base power and toughness 0/1. It can&apos;t
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RW88 Overencumbered</name>
+			<text>Enchant opponent
+When this Aura enters, enchanted opponent creates a Clue token, a Food token, and a Junk token.
+At the beginning of combat on enchanted opponent&apos;s turn, that player may pay {1} for each artifact they control. If they don&apos;t, creatures can&apos;t attack this combat.</text>
+			<set rarity="rare" picurl="https://the-recreator/sets/OOPv0.1-files/img/229.png" num="36">OOPv0.1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

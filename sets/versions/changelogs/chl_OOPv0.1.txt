@@ -1,4 +1,411 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+CW11 Rootborn Defenses added.
+CW14 Keep Out added.
+CB12 Lost in Deep Thought added.
+CG06 Banquet Hosts added.
+UU03 Ivenmoth Spymaster added.
+RW04 Merrs, Head Surgeon added.
+RW05 Damning Verdict added.
+UM03 Scavenger Leader added.
+UM04 Food Fighters added.
+UM05 Hatchery Nurse added.
+UM06 Unscrupulous Merchant added.
+UM08 Salt-Grass added.
+UM09 Dig Site Foreman added.
+UM10 Primal Empathy added.
+RM02 Lady Talleraine added.
+UA04 Fishing Rod added.
+RW88 Overencumbered added.
+
+CW88 Rootborn Defenses removed.
+CW11 Combat Removal removed.
+CW14 Disenchant removed.
+CB12 Coercion+ removed.
+CG06 removed.
+UU03 removed.
+RW04 Head Surgeon Merrs removed.
+RW05 removed.
+UM03 removed.
+UM04 removed.
+UM05 removed.
+UM06 removed.
+UM08 removed.
+UM09 removed.
+UM10 removed.
+RM02 Coercive Mentor removed.
+UA04 Living Weapon removed.
+
+CW13 Wing It
+
+CW12 Arrest
+
+CU01 Shieldrat
+
+CU02 Intrepid Intruder
+
+CU03 Val Salian Librarian
+
+CU04 Beizel's Scouts
+
+CU05 Student
+
+CU06 Baxxid Attendant
+
+CU07 Baxxid Thief
+
+CU08 Chase Inspiration
+
+CU09 Special Lesson
+
+CU11 Genetics Research
+
+UU05 Blossombind
+
+CU13 Lost to Antiquity
+
+CU14 Cite Regulations
+
+CB01 Rattergnat
+
+CB02
+
+CB03 Swamp Dweller
+
+UB88 Poison Boy
+
+CB05
+
+CB06 Baxxid Pariah
+
+CB07
+
+CB08 Blitz Leech
+
+CB09 Dead Weight
+
+CB10 Stab
+
+CB11 Dwell on Hopelessness
+
+CB13 Bake Into a Pie
+
+CB14 Sorrowful Accident
+
+CR01 Longrat
+
+CR02 Freelance Scavenger
+
+CR03
+
+CR04 Homeland Conqueror
+
+CR05
+
+CR06 Street Tough Gang
+
+CR07 Mountain Glider
+
+CR08
+
+CR09 Fling
+
+CR10 Heightened Reflexes
+
+CR11 Cathartic Reunion
+
+CR12 Abrade
+
+CR13 4 Direct Damage
+
+CR14 6 Direct Damage
+
+CG01 Bushrat
+
+CG02 Caravan Sentry
+
+CG03
+
+CG04 Leaftailed Trilopoid
+
+CG05
+
+CG07 Tiplod
+
+CG08 Enclave Guards
+
+CG09 Osseous Rex
+
+CG10 Fight Spell
+
+CG11 Bite Spell
+
+CG12 Fully Grown
+
+CG13 Mana Acceleration
+
+CG14 Dig for Lands/Creatures
+
+UW01 Figgins, Patriarch of Trade
+
+UW02
+
+UW03
+
+UW04
+
+UW05
+
+UW06
+
+UW07
+
+UW08 Trade Edict
+
+UU01 Beizel, Patriarch of Scouting
+
+UU07 Contest of Wills
+
+UU04
+
+UU06 Thist for Discovery
+
+UU02 The Oracle of Bakersroof
+
+UU08 Curious Inquiry
+
+UB01 Chakki, Patriarch of Farming
+
+UB02 Thyppid
+
+UB03
+
+UB04
+
+UB05
+
+UB06
+
+UB07
+
+UB08
+
+UR01 Kattajak, Patriarch of Hunting
+
+UR02
+
+UR03
+
+UR04
+
+UR05 Galvanic Blast
+
+UR06
+
+UR07 Trash for Treasure
+
+UR08
+
+UG01 Poak, Patriarch of Foodstuffs
+
+UG02
+
+UG03
+
+UG04
+
+UG05 Innkeeper
+
+UG06
+
+UG07
+
+UG08
+
+RW01 Elim Dorelga, War-Bonded
+
+RW02 Nervous Prodigy
+
+RW03 Ivenmoth Counselor
+
+RU01 Ran Ste-Su G'Mindel
+
+RU02 Voracious Reader
+
+RU03
+
+RU04
+
+RB01
+
+RB02 Fashionable Matron
+
+RB03
+
+RB04 Entomb
+
+RB05 The Silent Ages
+
+RR01
+
+RR02 Enthusiastic Maiden
+
+RR03
+
+RR04
+
+RR05
+
+RG01
+
+RG02 Helpful Ingenue
+
+RG03
+
+RG04
+
+RG05
+
+MW01 Luminous Broodmoth
+
+MU01 Show and Tell
+
+MB01
+
+MR01
+
+MG01 Craterhoof Behemoth
+
+UM01 Dinnlan Deserter
+
+UM02 De-Facto Patriarch
+rules_text: Nimble [i](This creature can't be blocked by creatures with power 3 or greater.)[/i]
+When De-Facto Patriarch attacks, target player mills a card. If defending player controls a non-Yinglet creature, target player mills 2 cards instead. => Nimble [i](This creature can't be blocked by creatures with power 3 or greater.)[/i]
+When De-Facto Patriarch attacks, target player mills 2 cards. If defending player controls a non-Yinglet creature, target player mills 3 cards instead.
+
+UM07 Metalwork Artisan
+
+RM01
+
+RM03 Brakka, Street Exile
+
+RM04 Lopin, Fancy Lad
+
+RM05 Kassen Akoll, Officer-Diplomat
+
+RM06 Narklet, Patriarch of Scavenging
+
+RM07 Kalgkur, Provisional Guard
+
+RM08
+
+RM09 Isher, Hiding from Herself
+
+RM10 Yannit, Research Partner
+
+CA01 Yinglet Spear
+
+CA04 Manalith+
+
+UA01 Soul-Guide Lantern
+
+UA02 Ball-and-Chain
+
+UA03 Patchwork Banner
+
+UA05 Elixer of Immortality
+
+RA01 Val Salian Library
+
+RA02 The Val Salian Field Guide
+
+RA03
+
+CL01 Tranquil Cove
+
+CL02 Dismal Backwater
+
+CL03 Bloodfell Caves
+
+CL04 Rugged Highlands
+
+CL05 Blossoming Sands
+
+CL06 Scoured Barrens
+
+CL07 Swiftwater Cliffs
+
+CL08 Jungle Hollow
+
+CL09 Wind-Scarred Crag
+
+CL10 Thornwood Falls
+
+CL11 Escape Tunnel
+
+RL01 Hallowed Fountain
+
+RL02 Steam Vents
+
+RL03 Blood Crypt
+
+RL04 Overgrown Tomb
+
+RL05 Temple Garden
+
+UX01
+
+UX02
+
+UX03
+
+UX04
+
+UX05
+
+RX01
+
+RX02
+
+RX03
+
+RX04
+
+RX05
+
+RX06
+
+RX07
+
+RX08
+
+MM01 The Great Leader
+
+MM02 Viracroix Salia, Trademaster
+
+MM03 Vizlet, Enclave Matriarch
+rules_text: Ward—Discard a card
+Whenever a Yinglet enters under your control or you draw a card, choose one—
+• Populate.
+• Educate. => Ward—Discard a card.
+Whenever you draw a card or another Yinglet nontoken creature enters under your control, choose one that hasn't been chosen this turn—
+• Put a +1/+1 counter on target creature you control.
+• Populate.
+• Educate.
+
+MM04 He-Who-Knows-What-He-Did
+
+MM05 Zeska Riptooth, Bandit Leader
+
+CU12 Yingify
+
+MA01 Zat Zhing
+
+CB04
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
