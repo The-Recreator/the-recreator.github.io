@@ -4,6 +4,11 @@
             "set_code": "OOP",
             "set_name": "Out-of-Placers",
             "formats": ""
+        },
+        {
+            "set_code": "OOPv0.1",
+            "set_name": "Universes Beyond: Out-of-Placers",
+            "formats": ""
         }
     ]
 }
