@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "ADC",
+            "set_name": "The Amazing Digital Circus",
+            "formats": ""
+        },
+        {
             "set_code": "OOP",
             "set_name": "Out-of-Placers",
             "formats": ""
