@@ -1,0 +1,1592 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Sundial of the Infinite",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/0.png"
+			}
+		},
+		{
+			"name": "The Gloink Queen",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/1.png"
+			}
+		},
+		{
+			"name": "Caine, Digital Ringmaster",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Artifact Creature — Performer",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/2.png"
+			}
+		},
+		{
+			"name": "Cast Down",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/3.png"
+			}
+		},
+		{
+			"name": "Censor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/4.png"
+			}
+		},
+		{
+			"name": "Endless Detour",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/5.png"
+			}
+		},
+		{
+			"name": "Pest Infestation",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{G}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/6.png"
+			}
+		},
+		{
+			"name": "Reality Shift",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/7.png"
+			}
+		},
+		{
+			"name": "Untimely Malfunction",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/8.png"
+			}
+		},
+		{
+			"name": "Apocalypse Runner",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/9.png"
+			}
+		},
+		{
+			"name": "Impostor Syndrome",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/10.png"
+			}
+		},
+		{
+			"name": "Plow Through",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/11.png"
+			}
+		},
+		{
+			"name": "The Fudge",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/12.png"
+			}
+		},
+		{
+			"name": "Rescue",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/13.png"
+			}
+		},
+		{
+			"name": "Snap",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/14.png"
+			}
+		},
+		{
+			"name": "Mind Funeral",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/15.png"
+			}
+		},
+		{
+			"name": "Bind",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/16.png"
+			}
+		},
+		{
+			"name": "Coercive Portal",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/17.png"
+			}
+		},
+		{
+			"name": "Ghost Vacuum",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/18.png"
+			}
+		},
+		{
+			"name": "Heroic Intervention",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/19.png"
+			}
+		},
+		{
+			"name": "Shriek of Dread",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/20.png"
+			}
+		},
+		{
+			"name": "Sinister Possession",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/21.png"
+			}
+		},
+		{
+			"name": "Stubborn Denial",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/22.png"
+			}
+		},
+		{
+			"name": "Ad Nauseam",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/23.png"
+			}
+		},
+		{
+			"name": "Exhaustion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/24.png"
+			}
+		},
+		{
+			"name": "Honest Work",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/25.png"
+			}
+		},
+		{
+			"name": "Propaganda",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/26.png"
+			}
+		},
+		{
+			"name": "Stupefying Touch",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/27.png"
+			}
+		},
+		{
+			"name": "Drown in Ichor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/28.png"
+			}
+		},
+		{
+			"name": "Feed the Swarm",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/29.png"
+			}
+		},
+		{
+			"name": "Cathartic Reunion",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/30.png"
+			}
+		},
+		{
+			"name": "Imposing Visage",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/31.png"
+			}
+		},
+		{
+			"name": "Suggestion Box",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/32.png"
+			}
+		},
+		{
+			"name": "Pacifism",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/33.png"
+			}
+		},
+		{
+			"name": "Silence",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/34.png"
+			}
+		},
+		{
+			"name": "Omniscience",
+			"rarity": "mythic",
+			"mana_cost": "{7}{U}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/35.png"
+			}
+		},
+		{
+			"name": "Split Decision",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/36.png"
+			}
+		},
+		{
+			"name": "Sudden Substitution",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/37.png"
+			}
+		},
+		{
+			"name": "Time Stop",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/38.png"
+			}
+		},
+		{
+			"name": "Chaos Warp",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/39.png"
+			}
+		},
+		{
+			"name": "Delayed Blast Fireball",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/40.png"
+			}
+		},
+		{
+			"name": "Bite Down",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/41.png"
+			}
+		},
+		{
+			"name": "Construct",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Construct",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/42.png"
+			}
+		},
+		{
+			"name": "Indicate",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/43.png"
+			}
+		},
+		{
+			"name": "Artful Dodge",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/44.png"
+			}
+		},
+		{
+			"name": "Frantic Search",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/45.png"
+			}
+		},
+		{
+			"name": "Harmonized Crescendo",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/46.png"
+			}
+		},
+		{
+			"name": "Mental Note",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/47.png"
+			}
+		},
+		{
+			"name": "Bedlam",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/48.png"
+			}
+		},
+		{
+			"name": "Boltbender",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Goblin Wizard",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/49.png"
+			}
+		},
+		{
+			"name": "Disrupt Decorum",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/50.png"
+			}
+		},
+		{
+			"name": "Extra Arms",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/51.png"
+			}
+		},
+		{
+			"name": "Wild Ricochet",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/52.png"
+			}
+		},
+		{
+			"name": "Hide in Plain Sight",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/53.png"
+			}
+		},
+		{
+			"name": "Refresh",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/54.png"
+			}
+		},
+		{
+			"name": "Tandem Takedown",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/55.png"
+			}
+		},
+		{
+			"name": "Kami of False Hope",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/56.png"
+			}
+		},
+		{
+			"name": "Reality Acid",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/57.png"
+			}
+		},
+		{
+			"name": "Treasure Cruise",
+			"rarity": "common",
+			"mana_cost": "{7}{U}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/58.png"
+			}
+		},
+		{
+			"name": "Go for the Throat",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/59.png"
+			}
+		},
+		{
+			"name": "Deflecting Swat",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/60.png"
+			}
+		},
+		{
+			"name": "Glorious End",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/61.png"
+			}
+		},
+		{
+			"name": "Panic",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/62.png"
+			}
+		},
+		{
+			"name": "Crucible of Worlds",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/63.png"
+			}
+		},
+		{
+			"name": "Door of Destinies",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/64.png"
+			}
+		},
+		{
+			"name": "Anointed Procession",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/65.png"
+			}
+		},
+		{
+			"name": "Brace for Impact",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/66.png"
+			}
+		},
+		{
+			"name": "Grand Crescendo",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/68.png"
+			}
+		},
+		{
+			"name": "Judge Unworthy",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/69.png"
+			}
+		},
+		{
+			"name": "Late to Dinner",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/70.png"
+			}
+		},
+		{
+			"name": "Mirror Mockery",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/71.png"
+			}
+		},
+		{
+			"name": "Flay Essence",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/72.png"
+			}
+		},
+		{
+			"name": "Saw in Half",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/73.png"
+			}
+		},
+		{
+			"name": "Crackle with Power",
+			"rarity": "mythic",
+			"mana_cost": "{X}{X}{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/74.png"
+			}
+		},
+		{
+			"name": "Impending Disaster",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/75.png"
+			}
+		},
+		{
+			"name": "Seize the Spotlight",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/76.png"
+			}
+		},
+		{
+			"name": "Turn to Slag",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/77.png"
+			}
+		},
+		{
+			"name": "Anguished Unmaking",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/78.png"
+			}
+		},
+		{
+			"name": "Creative Outburst",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}{R}{R}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/79.png"
+			}
+		},
+		{
+			"name": "Caine, Running the Show",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Artifact Creature — Performer",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/80.png"
+			}
+		},
+		{
+			"name": "Caine, Tormented God",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Artifact Creature — Performer God",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/81.png"
+			}
+		},
+		{
+			"name": "Arcane Signet",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/82.png"
+			}
+		},
+		{
+			"name": "Beloved Princess",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/83.png"
+			}
+		},
+		{
+			"name": "Glimmervoid",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/84.png"
+			}
+		},
+		{
+			"name": "Cathartic Parting",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/85.png"
+			}
+		},
+		{
+			"name": "Light from Within",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/86.png"
+			}
+		},
+		{
+			"name": "Zooble, the Friend",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Human Toy Avatar",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/87.png"
+			}
+		},
+		{
+			"name": "Kinger, the Fractured Mind",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Human Noble Avatar",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/88.png"
+			}
+		},
+		{
+			"name": "Ragatha, the Optimist",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Creature — Human Toy Avatar",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/89.png"
+			}
+		},
+		{
+			"name": "Jax, the Self-Loathing",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Human Rabbit Avatar",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/90.png"
+			}
+		},
+		{
+			"name": "Pomni, the Newcomer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Clown Avatar",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/91.png"
+			}
+		},
+		{
+			"name": "Gangle, the Tragedy",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Human Performer Avatar",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/93.png"
+			}
+		},
+		{
+			"name": "Jax, the Troublemaker",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Rabbit Avatar",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/95.png"
+			}
+		},
+		{
+			"name": "Zooble, the Grouch",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Toy Avatar",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/99.png"
+			}
+		},
+		{
+			"name": "Solve the Equation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/100.png"
+			}
+		},
+		{
+			"name": "Delayed Blast Fireball",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/101.png"
+			}
+		},
+		{
+			"name": "Monstrous Rage",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/102.png"
+			}
+		},
+		{
+			"name": "Inspiring Statuary",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/103.png"
+			}
+		},
+		{
+			"name": "Farewell",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/104.png"
+			}
+		},
+		{
+			"name": "Epic Downfall",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/105.png"
+			}
+		},
+		{
+			"name": "Caine, Tormented God",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Artifact Creature — Performer God",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/106.png"
+			}
+		},
+		{
+			"name": "Trickster's Talisman",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/107.png"
+			}
+		},
+		{
+			"name": "Stunning Reversal",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/108.png"
+			}
+		},
+		{
+			"name": "Keys to the House",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/109.png"
+			}
+		},
+		{
+			"name": "Doomsday",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/110.png"
+			}
+		},
+		{
+			"name": "Thespian's Stage",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/111.png"
+			}
+		},
+		{
+			"name": "Brittle Effigy",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/112.png"
+			}
+		},
+		{
+			"name": "Seize the Spotlight",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/113.png"
+			}
+		},
+		{
+			"name": "Touch of Darkness",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/114.png"
+			}
+		},
+		{
+			"name": "Bite Down",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/115.png"
+			}
+		},
+		{
+			"name": "Caine, Maker of Adventures",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Artifact Creature — Performer",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/116.png"
+			}
+		},
+		{
+			"name": "Disappearing Guy",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/117.png"
+			}
+		},
+		{
+			"name": "Disappearing Guy",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/118.png"
+			}
+		},
+		{
+			"name": "Fabled Passage",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/119.png"
+			}
+		},
+		{
+			"name": "Door to Nothingness",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/120.png"
+			}
+		},
+		{
+			"name": "Censor",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/121.png"
+			}
+		},
+		{
+			"name": "Glimmervoid",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/122.png"
+			}
+		},
+		{
+			"name": "Go for the Throat",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/123.png"
+			}
+		},
+		{
+			"name": "Bind",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/124.png"
+			}
+		},
+		{
+			"name": "Chaos Warp",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/125.png"
+			}
+		},
+		{
+			"name": "Harmonized Crescendo",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://the-recreator/sets/ADC-files/img/126.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Sundial of the Infinite
+	2 The Gloink Queen
+	2 Caine, Digital Ringmaster
+	2 Endless Detour
+	2 Pest Infestation
+	1 Impostor Syndrome
+	2 The Fudge
+	2 Bind
+	1 Coercive Portal
+	2 Ghost Vacuum
+	2 Ad Nauseam
+	2 Suggestion Box
+	2 Silence
+	1 Omniscience
+	2 Sudden Substitution
+	2 Time Stop
+	2 Chaos Warp
+	2 Delayed Blast Fireball
+	2 Harmonized Crescendo
+	2 Bedlam
+	2 Boltbender
+	2 Disrupt Decorum
+	2 Wild Ricochet
+	2 Hide in Plain Sight
+	2 Deflecting Swat
+	1 Glorious End
+	1 Crucible of Worlds
+	2 Door of Destinies
+	2 Anointed Procession
+	2 Grand Crescendo
+	2 Mirror Mockery
+	2 Saw in Half
+	1 Crackle with Power
+	2 Impending Disaster
+	2 Seize the Spotlight
+	1 Caine, Running the Show
+	1 Caine, Tormented God
+	2 Light from Within
+	2 Zooble, the Friend
+	2 Kinger, the Fractured Mind
+	2 Ragatha, the Optimist
+	2 Jax, the Self-Loathing
+	2 Pomni, the Newcomer
+	2 Gangle, the Tragedy
+	2 Jax, the Troublemaker
+	2 Zooble, the Grouch
+	2 Delayed Blast Fireball
+	2 Inspiring Statuary
+	2 Farewell
+	1 Caine, Tormented God
+	2 Doomsday
+	2 Thespian's Stage
+	2 Brittle Effigy
+	2 Seize the Spotlight
+	2 Caine, Maker of Adventures
+	2 Disappearing Guy
+	2 Disappearing Guy
+	2 Fabled Passage
+	2 Door to Nothingness
+	2 Glimmervoid
+[uncommon(3)]
+	4 Cast Down
+	4 Censor
+	4 Reality Shift
+	4 Untimely Malfunction
+	4 Apocalypse Runner
+	4 Mind Funeral
+	4 Stubborn Denial
+	4 Exhaustion
+	4 Honest Work
+	4 Propaganda
+	4 Drown in Ichor
+	4 Split Decision
+	4 Extra Arms
+	4 Tandem Takedown
+	4 Go for the Throat
+	4 Brace for Impact
+	4 Flay Essence
+	4 Anguished Unmaking
+	4 Creative Outburst
+	4 Cathartic Parting
+	4 Solve the Equation
+	4 Monstrous Rage
+	4 Epic Downfall
+	4 Trickster's Talisman
+	4 Keys to the House
+	4 Touch of Darkness
+	4 Go for the Throat
+[common(6)]
+	8 Rescue
+	8 Snap
+	8 Shriek of Dread
+	8 Sinister Possession
+	8 Stupefying Touch
+	8 Feed the Swarm
+	8 Cathartic Reunion
+	8 Imposing Visage
+	8 Pacifism
+	8 Bite Down
+	8 Indicate
+	8 Artful Dodge
+	8 Frantic Search
+	8 Mental Note
+	8 Refresh
+	8 Kami of False Hope
+	8 Reality Acid
+	8 Treasure Cruise
+	8 Panic
+	8 Judge Unworthy
+	8 Late to Dinner
+	8 Turn to Slag
+	8 Arcane Signet
+	8 Beloved Princess
+	8 Stunning Reversal
+	8 Bite Down
+[common | masterpiece(1)]
+	3 Plow Through
+	8 Rescue
+	8 Snap
+	3 Heroic Intervention
+	8 Shriek of Dread
+	8 Sinister Possession
+	8 Stupefying Touch
+	8 Feed the Swarm
+	8 Cathartic Reunion
+	8 Imposing Visage
+	8 Pacifism
+	8 Bite Down
+	8 Indicate
+	8 Artful Dodge
+	8 Frantic Search
+	8 Mental Note
+	8 Refresh
+	8 Kami of False Hope
+	8 Reality Acid
+	8 Treasure Cruise
+	8 Panic
+	8 Judge Unworthy
+	8 Late to Dinner
+	8 Turn to Slag
+	8 Arcane Signet
+	8 Beloved Princess
+	3 Glimmervoid
+	8 Stunning Reversal
+	8 Bite Down
+	3 Censor
+	3 Bind
+	3 Chaos Warp
+	3 Harmonized Crescendo
+[foil(1)]
+	2 Sundial of the Infinite
+	2 The Gloink Queen
+	2 Caine, Digital Ringmaster
+	6 Cast Down
+	6 Censor
+	2 Endless Detour
+	2 Pest Infestation
+	6 Reality Shift
+	6 Untimely Malfunction
+	6 Apocalypse Runner
+	1 Impostor Syndrome
+	2 The Fudge
+	12 Rescue
+	12 Snap
+	6 Mind Funeral
+	2 Bind
+	1 Coercive Portal
+	2 Ghost Vacuum
+	12 Shriek of Dread
+	12 Sinister Possession
+	6 Stubborn Denial
+	2 Ad Nauseam
+	6 Exhaustion
+	6 Honest Work
+	6 Propaganda
+	12 Stupefying Touch
+	6 Drown in Ichor
+	12 Feed the Swarm
+	12 Cathartic Reunion
+	12 Imposing Visage
+	2 Suggestion Box
+	12 Pacifism
+	2 Silence
+	1 Omniscience
+	6 Split Decision
+	2 Sudden Substitution
+	2 Time Stop
+	2 Chaos Warp
+	2 Delayed Blast Fireball
+	12 Bite Down
+	12 Indicate
+	12 Artful Dodge
+	12 Frantic Search
+	2 Harmonized Crescendo
+	12 Mental Note
+	2 Bedlam
+	2 Boltbender
+	2 Disrupt Decorum
+	6 Extra Arms
+	2 Wild Ricochet
+	2 Hide in Plain Sight
+	12 Refresh
+	6 Tandem Takedown
+	12 Kami of False Hope
+	12 Reality Acid
+	12 Treasure Cruise
+	6 Go for the Throat
+	2 Deflecting Swat
+	1 Glorious End
+	12 Panic
+	1 Crucible of Worlds
+	2 Door of Destinies
+	2 Anointed Procession
+	6 Brace for Impact
+	2 Grand Crescendo
+	12 Judge Unworthy
+	12 Late to Dinner
+	2 Mirror Mockery
+	6 Flay Essence
+	2 Saw in Half
+	1 Crackle with Power
+	2 Impending Disaster
+	2 Seize the Spotlight
+	12 Turn to Slag
+	6 Anguished Unmaking
+	6 Creative Outburst
+	1 Caine, Running the Show
+	1 Caine, Tormented God
+	12 Arcane Signet
+	12 Beloved Princess
+	6 Cathartic Parting
+	2 Light from Within
+	2 Zooble, the Friend
+	2 Kinger, the Fractured Mind
+	2 Ragatha, the Optimist
+	2 Jax, the Self-Loathing
+	2 Pomni, the Newcomer
+	2 Gangle, the Tragedy
+	2 Jax, the Troublemaker
+	2 Zooble, the Grouch
+	6 Solve the Equation
+	2 Delayed Blast Fireball
+	6 Monstrous Rage
+	2 Inspiring Statuary
+	2 Farewell
+	6 Epic Downfall
+	1 Caine, Tormented God
+	6 Trickster's Talisman
+	12 Stunning Reversal
+	6 Keys to the House
+	2 Doomsday
+	2 Thespian's Stage
+	2 Brittle Effigy
+	2 Seize the Spotlight
+	6 Touch of Darkness
+	12 Bite Down
+	2 Caine, Maker of Adventures
+	2 Disappearing Guy
+	2 Disappearing Guy
+	2 Fabled Passage
+	2 Door to Nothingness
+	2 Glimmervoid
+	6 Go for the Throat
+[wildcard(1)]
+	7 Sundial of the Infinite
+	7 The Gloink Queen
+	7 Caine, Digital Ringmaster
+	15 Cast Down
+	15 Censor
+	7 Endless Detour
+	7 Pest Infestation
+	15 Reality Shift
+	15 Untimely Malfunction
+	15 Apocalypse Runner
+	4 Impostor Syndrome
+	7 The Fudge
+	6 Rescue
+	6 Snap
+	15 Mind Funeral
+	7 Bind
+	4 Coercive Portal
+	7 Ghost Vacuum
+	6 Shriek of Dread
+	6 Sinister Possession
+	15 Stubborn Denial
+	7 Ad Nauseam
+	15 Exhaustion
+	15 Honest Work
+	15 Propaganda
+	6 Stupefying Touch
+	15 Drown in Ichor
+	6 Feed the Swarm
+	6 Cathartic Reunion
+	6 Imposing Visage
+	7 Suggestion Box
+	6 Pacifism
+	7 Silence
+	4 Omniscience
+	15 Split Decision
+	7 Sudden Substitution
+	7 Time Stop
+	7 Chaos Warp
+	7 Delayed Blast Fireball
+	6 Bite Down
+	6 Indicate
+	6 Artful Dodge
+	6 Frantic Search
+	7 Harmonized Crescendo
+	6 Mental Note
+	7 Bedlam
+	7 Boltbender
+	7 Disrupt Decorum
+	15 Extra Arms
+	7 Wild Ricochet
+	7 Hide in Plain Sight
+	6 Refresh
+	15 Tandem Takedown
+	6 Kami of False Hope
+	6 Reality Acid
+	6 Treasure Cruise
+	15 Go for the Throat
+	7 Deflecting Swat
+	4 Glorious End
+	6 Panic
+	4 Crucible of Worlds
+	7 Door of Destinies
+	7 Anointed Procession
+	15 Brace for Impact
+	7 Grand Crescendo
+	6 Judge Unworthy
+	6 Late to Dinner
+	7 Mirror Mockery
+	15 Flay Essence
+	7 Saw in Half
+	4 Crackle with Power
+	7 Impending Disaster
+	7 Seize the Spotlight
+	6 Turn to Slag
+	15 Anguished Unmaking
+	15 Creative Outburst
+	4 Caine, Running the Show
+	4 Caine, Tormented God
+	6 Arcane Signet
+	6 Beloved Princess
+	15 Cathartic Parting
+	7 Light from Within
+	7 Zooble, the Friend
+	7 Kinger, the Fractured Mind
+	7 Ragatha, the Optimist
+	7 Jax, the Self-Loathing
+	7 Pomni, the Newcomer
+	7 Gangle, the Tragedy
+	7 Jax, the Troublemaker
+	7 Zooble, the Grouch
+	15 Solve the Equation
+	7 Delayed Blast Fireball
+	15 Monstrous Rage
+	7 Inspiring Statuary
+	7 Farewell
+	15 Epic Downfall
+	4 Caine, Tormented God
+	15 Trickster's Talisman
+	6 Stunning Reversal
+	15 Keys to the House
+	7 Doomsday
+	7 Thespian's Stage
+	7 Brittle Effigy
+	7 Seize the Spotlight
+	15 Touch of Darkness
+	6 Bite Down
+	7 Caine, Maker of Adventures
+	7 Disappearing Guy
+	7 Disappearing Guy
+	7 Fabled Passage
+	7 Door to Nothingness
+	7 Glimmervoid
+	15 Go for the Throat
