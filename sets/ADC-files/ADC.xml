@@ -1116,26 +1116,6 @@ Creatures you control of the chosen type get +1/+1 for each charge counter on th
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Farewell</name>
-			<text>Choose one or more —
-• Exile all artifacts.
-• Exile all creatures.
-• Exile all enchantments.
-• Exile all graveyards.</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/ADC-files/img/67.png" num="22">ADC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>4WW</manacost>
-				<cmc>6</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
 			<name>Grand Crescendo</name>
 			<text>Create X 1/1 green and white Citizen creature tokens. Creatures you control gain indestructible until end of turn.</text>
 			<set rarity="rare" picurl="https://the-recreator/sets/ADC-files/img/68.png" num="24">ADC</set>
@@ -1531,23 +1511,6 @@ This creature can&apos;t be blocked by creatures with power 3 or greater.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Caine, Humbled Atoner</name>
-			<text>{T}: Add one mana of any color in your commander&apos;s color identity.</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/ADC-files/img/92.png" num="119">ADC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Artifact Creature — Performer</type>
-				<maintype>Creature</maintype>
-				<manacost>1R</manacost>
-				<cmc>2</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Gangle, the Tragedy</name>
 			<text>Whenever an artifact you control dies, draw a card, then discard a card.</text>
 			<set rarity="rare" picurl="https://the-recreator/sets/ADC-files/img/93.png" num="3">ADC</set>
@@ -1561,24 +1524,6 @@ This creature can&apos;t be blocked by creatures with power 3 or greater.</text>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Pomni, the Heart</name>
-			<text>If a triggered ability of a legendary creature you control triggers, that ability triggers an additional time.
-{T}, {U}, Discard a card: Return target permanent you control to its owner&apos;s hand.</text>
-			<set rarity="mythic" picurl="https://the-recreator/sets/ADC-files/img/94.png" num="17">ADC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Human Clown Avatar</type>
-				<maintype>Creature</maintype>
-				<manacost>W/UW/BR/WG/W</manacost>
-				<cmc>4</cmc>
-				<colors>WUBRG</colors>
-				<coloridentity>WUBRG</coloridentity>
-				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1597,58 +1542,6 @@ Screw Things Up — Jax can&apos;t block. Whenever Jax deals combat damage to a 
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 				<pt>3/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Gangle, the Storyteller</name>
-			<text>Whenever you cast a historic spell, draw a card. (Artifacts, legendaries, and Sagas are historic.)</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/ADC-files/img/96.png" num="12">ADC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Human Performer Avatar</type>
-				<maintype>Creature</maintype>
-				<manacost>UR</manacost>
-				<cmc>2</cmc>
-				<colors>UR</colors>
-				<coloridentity>UR</coloridentity>
-				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Kinger, the Conjurer</name>
-			<text>When Kinger enters, look at the top eight cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
-{X}: Exile target artifact with mana value X. Its owner may play it for as long as it remains exiled.</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/ADC-files/img/97.png" num="14">ADC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Human Noble Avatar</type>
-				<maintype>Creature</maintype>
-				<manacost>WU</manacost>
-				<cmc>2</cmc>
-				<colors>WU</colors>
-				<coloridentity>WU</coloridentity>
-				<pt>2/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Ragatha, the Caretaker</name>
-			<text>{GW}, {T}: Target creature you control gains indestructible until end of turn. Tap it.</text>
-			<set rarity="rare" picurl="https://the-recreator/sets/ADC-files/img/98.png" num="15">ADC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Human Toy Avatar</type>
-				<maintype>Creature</maintype>
-				<manacost>GW</manacost>
-				<cmc>2</cmc>
-				<colors>WG</colors>
-				<coloridentity>WG</coloridentity>
-				<pt>1/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

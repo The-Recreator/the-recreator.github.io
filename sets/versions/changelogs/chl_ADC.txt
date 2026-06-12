@@ -1,4 +1,20 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+Caine, Humbled Atoner removed.
+Pomni, the Heart removed.
+Gangle, the Storyteller removed.
+Kinger, the Conjurer removed.
+Ragatha, the Caretaker removed.
+Farewell removed.
+
+Ad Nauseam
+
+Farewell
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

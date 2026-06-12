@@ -484,12 +484,12 @@
         "position": "20"
     },
     {
-        "card_name": "Caine, Humbled Atoner",
-        "number": 119,
+        "card_name": "Extra Arms",
+        "number": 80,
         "shape": "normal",
         "set": "ADC",
         "rotated": false,
-        "position": "92"
+        "position": "51"
     },
     {
         "card_name": "e"
@@ -514,12 +514,12 @@
         "position": "21"
     },
     {
-        "card_name": "Extra Arms",
-        "number": 80,
+        "card_name": "Monstrous Rage",
+        "number": 84,
         "shape": "normal",
         "set": "ADC",
         "rotated": false,
-        "position": "51"
+        "position": "102"
     },
     {
         "card_name": "e"
@@ -544,12 +544,12 @@
         "position": "108"
     },
     {
-        "card_name": "Monstrous Rage",
-        "number": 84,
+        "card_name": "Untimely Malfunction",
+        "number": 89,
         "shape": "normal",
         "set": "ADC",
         "rotated": false,
-        "position": "102"
+        "position": "8"
     },
     {
         "card_name": "e"
@@ -569,12 +569,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "Untimely Malfunction",
-        "number": 89,
+        "card_name": "Cathartic Reunion",
+        "number": 71,
         "shape": "normal",
         "set": "ADC",
         "rotated": false,
-        "position": "8"
+        "position": "30"
     },
     {
         "card_name": "e"
@@ -594,12 +594,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "Cathartic Reunion",
-        "number": 71,
+        "card_name": "Imposing Visage",
+        "number": 83,
         "shape": "normal",
         "set": "ADC",
         "rotated": false,
-        "position": "30"
+        "position": "31"
     },
     {
         "card_name": "e"
@@ -619,12 +619,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "Imposing Visage",
-        "number": 83,
+        "card_name": "Panic",
+        "number": 85,
         "shape": "normal",
         "set": "ADC",
         "rotated": false,
-        "position": "31"
+        "position": "62"
     },
     {
         "card_name": "e"
@@ -644,12 +644,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "Panic",
-        "number": 85,
+        "card_name": "Turn to Slag",
+        "number": 88,
         "shape": "normal",
         "set": "ADC",
         "rotated": false,
-        "position": "62"
+        "position": "77"
     },
     {
         "card_name": "e"
@@ -669,12 +669,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "Turn to Slag",
-        "number": 88,
-        "shape": "normal",
-        "set": "ADC",
-        "rotated": false,
-        "position": "77"
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -733,12 +728,7 @@
     },
     "a->gold",
     {
-        "card_name": "Kinger, the Conjurer",
-        "number": 14,
-        "shape": "normal",
-        "set": "ADC",
-        "rotated": false,
-        "position": "97"
+        "card_name": "e"
     },
     {
         "card_name": "Mind Funeral",
@@ -760,12 +750,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "Ragatha, the Caretaker",
-        "number": 15,
-        "shape": "normal",
-        "set": "ADC",
-        "rotated": false,
-        "position": "98"
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -836,26 +821,6 @@
         "position": "78"
     },
     {
-        "card_name": "Gangle, the Storyteller",
-        "number": 12,
-        "shape": "normal",
-        "set": "ADC",
-        "rotated": false,
-        "position": "96"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "Creative Outburst",
         "number": 102,
         "shape": "normal",
@@ -912,12 +877,7 @@
         "position": "5"
     },
     {
-        "card_name": "Pomni, the Heart",
-        "number": 17,
-        "shape": "normal",
-        "set": "ADC",
-        "rotated": false,
-        "position": "94"
+        "card_name": "e"
     },
     {
         "card_name": "e"
