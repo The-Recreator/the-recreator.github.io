@@ -1,4 +1,319 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Zooble, the Helping Hand added.
+Jax, the Nihilist added.
+Caine, Humbled Atoner added.
+Pomni, the Heart added.
+Gangle, the Storyteller added.
+Kinger, Digital Architect added.
+Ragatha, the Caretaker added.
+Farewell added.
+The Tragedy of Jax added.
+Reanimate added.
+Thespian's Stage added.
+Touch of Darkness added.
+Untimely Malfunction added.
+Crackle with Power added.
+Renewed Solidarity added.
+Coalition Victory added.
+Grand Crescendo added.
+Honor the Fallen added.
+Today's Adventure added.
+Reality Spasm added.
+Secret Rendevous added.
+Humble added.
+Rest in Peace added.
+Access Denied added.
+Consign to Memory added.
+Force of Negation added.
+Patient Rebuilding added.
+Secrets of the Dead added.
+Lost Legacy added.
+Creative Technique added.
+Basic Conjuration added.
+Deflecting Palm added.
+Fractured Identity added.
+Ancient Tomb added.
+Spell Pierce added.
+Lessons from Life added.
+Rescue added.
+One with Nothing added.
+Fabricate added.
+Patient Rebuilding added.
+Abstraction added.
+Underworld Breach added.
+Anointed Procession added.
+Ribbit, the Confidant added.
+Kaufmo, the Chill added.
+Release to Memory added.
+Finale of Revelation added.
+Learn from the Past added.
+Your Ideas Suck! added.
+Homeward Path added.
+Alchemist's Gift added.
+Jax, the Loathsome added.
+Homeward Path added.
+
+Mind Funeral removed.
+Zooble, the Friend removed.
+Jax, the Self-Loathing removed.
+Caine, Tormented God removed.
+Seize the Spotlight removed.
+
+Caine, Digital Ringmaster
+rules_text: Flying
+[i]Make Adventures[/i] — Whenever you cast an instant or sorcery spell, exile any number of other target nontoken creatures with total mana value X or less, where X is that spell's mana value. Return those creatures to the battlefield under their owner's control at the beginning of the next end step. => Flying
+[i]Today's Adventure[/i] — Whenever you cast an instant or sorcery spell, exile any number of other target nontoken creatures with total mana value X or less, where X is that spell's mana value. Return those creatures to the battlefield under their owner's control at the beginning of the next end step.
+
+Apocalypse Runner
+rules_text: {T}: Target creature you control with power 2 or less gains lifelink until end of turn and can't be blocked this turn.
+Crew 3 => {T}: Target creature you control with power 2 or less gains lifelink until end of turn and can't be blocked this turn.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Plow Through
+
+Rescue
+
+Snap
+
+Bind
+
+Coercive Portal
+
+Ghost Vacuum
+
+Heroic Intervention
+
+Shriek of Dread
+
+Sinister Possession
+
+Stubborn Denial
+
+Ad Nauseam
+
+Exhaustion
+
+Honest Work
+
+Propaganda
+
+Stupefying Touch
+
+Drown in Ichor
+
+Feed the Swarm
+
+Cathartic Reunion
+
+Imposing Visage
+
+Suggestion Box
+
+Pacifism
+
+Silence
+
+Omniscience
+
+Split Decision
+
+Sudden Substitution
+
+Time Stop
+
+Chaos Warp
+
+Delayed Blast Fireball
+
+Bite Down
+
+Construct
+
+Indicate
+
+Artful Dodge
+
+Frantic Search
+
+Harmonized Crescendo
+
+Mental Note
+
+Bedlam
+
+Boltbender
+
+Disrupt Decorum
+
+Extra Arms
+
+Wild Ricochet
+
+Hide in Plain Sight
+
+Refresh
+
+Tandem Takedown
+
+Kami of False Hope
+
+Reality Acid
+
+Treasure Cruise
+
+Go for the Throat
+
+Deflecting Swat
+
+Glorious End
+rules_text: End the turn.
+At the beginning of your next end step, you lose the game. => End the turn. [i](Exile all spells and abilities from the stack, including this card. The player whose turn it is discards down to their maximum hand size. Damage wears off, and “this turn” and “until end of turn” effects end.)[/i]
+At the beginning of your next end step, you lose the game.
+
+Panic
+
+Crucible of Worlds
+
+Door of Destinies
+
+Anointed Procession
+
+Brace for Impact
+
+Farewell
+
+Grand Crescendo
+
+Judge Unworthy
+
+Late to Dinner
+rules_text: Return target creature card from your graveyard to the battlefield. Create a Food token. => Return target creature card from your graveyard to the battlefield. Create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+
+Mirror Mockery
+
+Flay Essence
+
+Saw in Half
+
+Crackle with Power
+
+Impending Disaster
+
+Turn to Slag
+
+Anguished Unmaking
+
+Creative Outburst
+
+Caine, Running the Show
+rules_text: Flying
+At the beginning of your end step, draw a card. Then each opponent faces a villainous choice — That player discards a card, or you and that player each mill a card. You may cast either card without paying its mana cost. => Flying
+At the beginning of your end step, draw a card. Then each opponent faces a villainous choice — That player discards a card, or you and that player each mill a card. You may cast a card milled this way without paying its mana cost.
+pt: 3/4 => 4/3
+
+Arcane Signet
+
+Beloved Princess
+
+Cathartic Parting
+
+Light from Within
+
+Kinger, the Fractured Mind
+type: Legendary Creature — Human Noble Avatar => Legendary Creature — Noble Avatar
+rules_text: Defender, vigilance => Defender, vigilance
+{T}: If Kinger dealt combat damage this turn, choose one—
+• Destroy target artifact or enchantment.
+• Gain 3 life.
+
+Ragatha, the Optimist
+type: Legendary Creature — Human Toy Avatar => Legendary Creature — Toy Avatar
+
+Pomni, the Newcomer
+type: Legendary Creature — Human Clown Avatar => Legendary Creature — Clown Avatar
+rules_text: [i]“Exit”[/i] — {2}: Exile Pomni. Return her to the battlefield under her owner's control at the beginning of the next end step. => [i]“Exit”[/i] — {W}: Exile Pomni. Return her to the battlefield under her owner's control at the beginning of the next end step.
+pt: 2/2 => 2/3
+
+Gangle, the Tragedy
+type: Legendary Creature — Human Performer Avatar => Legendary Creature — Performer Avatar
+cost: {U} => {2}{U}
+rules_text: Whenever an artifact you control dies, draw a card, then discard a card. => Whenever an artifact you control dies, you may draw a card. If you do, discard a card unless that artifact had a mana value of 3 or greater.
+
+Jax, the Troublemaker
+type: Legendary Creature — Human Rabbit Avatar => Legendary Creature — Rabbit Avatar
+cost: {2}{R} => {1}{R}
+rules_text: First strike
+[i]Screw Things Up[/i] — Jax can't block. Whenever Jax deals combat damage to a player, you and that player both discard a card, then draw a card. => First strike
+Jax can't block.
+[i]Screw Things Up[/i] — Whenever Jax deals combat damage to a player, you and that player both discard a card, then draw a card.
+
+Zooble, the Grouch
+type: Legendary Creature — Human Toy Avatar => Legendary Creature — Toy Avatar
+rules_text: [i]Nope[/i] — The first time a spell or ability targets Zooble each turn, you may pay 2 life. If you do, Zooble phases out. => [i]Nope[/i] — Whenever a spell or ability targets Zooble, you may pay 2 life. If you do, Zooble phases out. [i](Treat them and anything attached to them as though they don't exist until their controller's next turn.)[/i]
+
+Solve the Equation
+
+Delayed Blast Fireball
+
+Monstrous Rage
+
+Inspiring Statuary
+
+Epic Downfall
+
+Caine, Tormented God
+rules_text: Menace, reach
+Whenever another non-Abstraction creature dies, return it to the battlefield under its owner's control face down and tapped. It's a 2/2 Abstraction creature.
+At the beginning of your end step, Caine deals X damage to another target creature, where X is the number of Abstractions in play. => Menace, reach
+Whenever another non-Abstraction creature dies, return it to the battlefield under its owner's control face down and tapped. It's a 3/3 Abstraction creature.
+At the beginning of your end step, Caine deals X damage to another target creature, where X is the number of Abstractions in play.
+
+Trickster's Talisman
+
+Stunning Reversal
+
+Keys to the House
+
+Doomsday
+
+Thespian's Stage
+
+Brittle Effigy
+
+Seize the Spotlight
+
+Touch of Darkness
+
+Bite Down
+
+Caine, Maker of Adventures
+
+Disappearing Guy
+
+Disappearing Guy
+
+Fabled Passage
+
+Door to Nothingness
+
+Censor
+
+Glimmervoid
+
+Go for the Throat
+
+Bind
+
+Chaos Warp
+
+Harmonized Crescendo
+
+Glimmervoid
+
+
+VERSION 3 CHANGELOG
 ====================
 
 No changes.
