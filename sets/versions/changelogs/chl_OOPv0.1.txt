@@ -1,4 +1,537 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+CW08 Hatchling Season added.
+CW13 Winging It added.
+CG13 Spider Food added.
+CZ01 Street Rat added.
+CZ02 Enclave Informant added.
+CZ99 Throw added.
+CZ04 Kattajak's Hunters added.
+CZ99 Sundering Growth added.
+CZ08 Syrupbloom added.
+CZ10 Bioshift added.
+CA04 Wayfarer's Bauble added.
+CA02 Clams added.
+CA06 Swamp Food added.
+CW03 Yinglet Token Maker added.
+CW99 Yinglet Apparent added.
+CW04 Mothguard Patroller added.
+CW05 Mothguard Sentry added.
+CW06 Small Tunneler added.
+CW07 Doting Father added.
+CW09 Chorp Swarm added.
+CB05 Wetworks Scavenger added.
+CB07 Brakka's Thugs added.
+CB14 Deadly Accident added.
+CR02 Baxxid Child-Grub added.
+CR05 Yinglet Engineer added.
+CR03 Freelance Scavenger added.
+CR99 Mountain Glider added.
+CR08 Hunting Hobbyist added.
+CR13 Med Direct Damage added.
+CR14 Heavy Direct Damage added.
+CG04 Tiplod added.
+CG03 Leaftailed Trilopoid added.
+CG07 Indrel Drone added.
+CG10 Bushwhack added.
+CG11 Territorial Bite added.
+CG12 Voracious Appetite added.
+UW02 Artifice Appraiser added.
+UW03 Kassen Akoll, Ivenmoth Recruit added.
+UW04 Ivenmoth Recruiter added.
+UW05 Ivenmoth Gatekeeper added.
+UW06 Dispatch added.
+UW07 Solitary Sanctuary added.
+UR06 Ruinous Rampage added.
+UG02 Paperstock Breakfasteer added.
+RW03 added.
+RU03 Library Tutor added.
+RR03 Prophet of Bones added.
+RR04 Whel of Fortune added.
+CM01 Travelling Moon's Tides added.
+RM01 Guardmaster Shtivv'kr added.
+CA03 Dome of Aurora added.
+RA03 Inspiring Statuary added.
+UL01 Nesting Grounds added.
+UM11 Graveyard Plunderer added.
+RM12 Vayryn, Matriarch of the Lost added.
+RM11 Out-of-Placers added.
+CZ05 Vizlet's Escort added.
+CZ03 Narklet's Scavengers added.
+CW10 Ivenmoth Engineer added.
+CC02A Lopin's Exile added.
+CC02B Lopin's Exile added.
+TA03 Junk added.
+TA01 Clue added.
+TA02 Food added.
+TA04 Treasure added.
+TG02 Yinglet added.
+TW01 Soldier added.
+CA05 Lead Cup added.
+UB09 Antiquity of Germ Theory added.
+UR09 Antiquity of Metallurgy added.
+UG09 Antiquity of Crop Rotation added.
+UW09 Antiquity of Architecture added.
+UU09 Antiquity of Astronomy added.
+CR88 Mountain Glider added.
+CA07 Common Book added.
+CA08 Common Book added.
+CA09 Common Book added.
+RM12 Vayryn, Matriarch of the Lost added.
+TA01 Clue added.
+
+CW09 Hatchling Season removed.
+CW13 Wing It removed.
+Spider Food removed.
+Courage in Crisis removed.
+Street Rat removed.
+Enclave Informant removed.
+Throw removed.
+Kattajak's Hunters removed.
+Sundering Growth removed.
+Syrupbloom removed.
+Bioshift removed.
+CA05 Wayfarer's Bauble removed.
+CA03 Clams removed.
+CA02 Removal removed.
+CW03 removed.
+CW04 removed.
+CW05 Mothguard Patroller removed.
+CW06 Mothguard Sentry removed.
+CW07 Small Tunneler removed.
+CW08 Doting Father removed.
+CW10 Chorp Swarm removed.
+CB05 removed.
+CB07 removed.
+CB14 Sorrowful Accident removed.
+CR02 Freelance Scavenger removed.
+CR03 removed.
+CR05 removed.
+CR07 Mountain Glider removed.
+CR08 removed.
+CR13 4 Direct Damage removed.
+CR14 6 Direct Damage removed.
+CG03 removed.
+CG04 Leaftailed Trilopoid removed.
+CG07 Tiplod removed.
+CG10 Fight Spell removed.
+CG11 Bite Spell removed.
+CG12 Fully Grown removed.
+CG13 Mana Acceleration removed.
+UW02 removed.
+UW03 removed.
+UW04 removed.
+UW05 removed.
+UW06 removed.
+UW07 removed.
+UR06 removed.
+UG02 removed.
+RW03 Ivenmoth Counselor removed.
+RU03 removed.
+RR03 removed.
+RR04 removed.
+MR01 removed.
+RM01 removed.
+CA04 Manalith+ removed.
+RA03 removed.
+UX01 removed.
+UX02 removed.
+RX07 removed.
+RX08 removed.
+
+CW88 Rapier Wit
+
+CZ06
+
+CZ07
+
+CZ09
+type:  => Creature — Human Soldier
+cost: {RW} => {1}{RW}{RW}
+rules_text:  => Whenever an artifact token you control or another creature you control enters, put a +1/+1 counter on this creature.
+pt:  => 2/1
+
+CC01 Construction Crew
+
+RU05 Mind Unbound
+
+CW01 Sunrat
+
+CW02 Chorp Parasite
+
+CW12 Arrest
+
+CW14 Keep Out
+
+CU01 Shieldrat
+rules_text: Tunneling [i](This creature can't be blocked except by creatures with tunneling or reach.)[/i]
+When this creature dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Tunneling [i](This creature can't be blocked except by creatures with tunneling or reach.)[/i]
+When this creature enters or dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+CU02 Intrepid Intruder
+
+CU03 Val Salian Librarian
+
+CU04 Beizel's Scouts
+
+CU05 Student
+
+CU06 Baxxid Attendant
+
+CU07 Baxxid Thief
+
+CU08 Chase Inspiration
+
+CU09 Special Lesson
+
+CU11 Genetics Research
+
+UU05 Blossombind
+
+CU13 Lost to Antiquity
+
+CU14 Cite Regulations
+
+CB01 Rattergnat
+rules_text: Flying
+When this creature dies, put a poison counter on target player. [i](A player with ten or more poison counters loses the game.)[/i] => Flying
+When this creature dies, salvage 1. [i](Create a Junk token or cast target artifact spell with mana value 1 or less from your graveyard. If you cast a spell this way, that artifact enters with a finality counter on it.)[/i]
+
+CB02
+
+CB03 Swamp Dweller
+
+UB88 Poison Boy
+
+CB06 Baxxid Pariah
+
+CB08 Blitz Leech
+
+CB09 Dead Weight
+
+CB10 Stab
+
+CB11 Dwell on Hopelessness
+
+CB12 Lost in Deep Thought
+
+CB13 Bake Into a Pie
+
+CR01 Longrat
+
+CR04 Homeland Conqueror
+rules_text: During your turn, this creature has first strike. => During your turn, this creature has first strike.
+[i]Raid[/i] — When this creature enters, if you attacked this turn, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+pt: 2/2 => 3/1
+
+CR06 Street Tough Gang
+
+CR09 Fling
+
+CR10 Heightened Reflexes
+
+CR11 Cathartic Reunion
+
+CR12 Abrade
+
+CG01 Bushrat
+
+CG02 Caravan Sentry
+
+CG05
+type: Creature => Creature — Yinglet Rogue
+pt:  => 2/2
+
+CG06 Banquet Hosts
+
+CG08 Enclave Guards
+type: Creature — Yinglet Scout => Creature — Yinglet Soldier
+
+CG09 Osseous Rex
+rules_text: Reach, trample => Trample
+pt: 6/6 => 7/7
+
+CG14 Dig for Lands/Creatures
+
+UW01 Figgins, Patriarch of Trade
+
+UW08 Trade Edict
+
+UU01 Beizel, Patriarch of Scouting
+
+UU07 Contest of Wills
+
+UU03 Ivenmoth Spymaster
+
+UU04
+
+UU06 Thist for Discovery
+
+UU02 The Oracle of Bakersroof
+
+UU08 Curious Inquiry
+
+UB01 Chakki, Patriarch of Farming
+cost: {2}{B} => {1}{B}
+rules_text: Other creatures you control have “{1}, {T}, Mill a card: Create a Food token.” [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i] => Whenever you salvage, you may pay {1}. If you do, choose one—
+• Mill a card.
+• Create a Food token.
+
+UB02 Thyppid
+
+UB03
+rules_text:  => Whenever you salvage, you may exile up to one target card from a graveyard.
+
+UB04
+
+UB05
+
+UB06
+
+UB07
+
+UB08
+
+UR01 Kattajak, Patriarch of Hunting
+rules_text: Bloodthirst 1 [i](If an opponent was dealt damage this turn, this creature enters with a +1/+1 counter on it.)[/i]
+[i]Raid[/i] - At the beginning of your second main phase, if you attacked this turn, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i] => Bloodthirst 1 [i](If an opponent was dealt damage this turn, this creature enters with a +1/+1 counter on it.)[/i]
+[i]Raid[/i] — At the beginning of your second main phase, if you attacked this turn, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+
+UR02
+
+UR03
+
+UR04
+
+UR05 Galvanic Blast
+
+UR07 Trash for Treasure
+
+UR08
+
+UG01 Poak, Patriarch of Foodstuffs
+
+UG03
+
+UG04
+
+UG05 Innkeeper
+rules_text: When Innkeeper enters, create a Food token.
+{G}, Sacrifice a Food: Put a +1/+1 counter on target creature. Activate only as a sorcery. => When Innkeeper enters, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+Whenever you gain life, put a +1/+1 counter on target creature.
+
+UG06
+
+UG07
+
+UG08
+
+RW01 Elim Dorelga, War-Bonded
+rules_text: Vigilance
+Whenever Elim is dealt damage, put a +1/+1 counter on him. If you do, another target creature you control gets indestructible until end of turn. [i](Elim must survive the damage to get the counter.)[/i]
+Partner - Research group [i](You can have two commanders if both have this ability.)[/i] => Vigilance
+Whenever Elim is dealt damage, put a +1/+1 counter on him. If you do, another target creature you control gains indestructible until end of turn. [i](Elim must survive the damage to get the counter.)[/i]
+Partner—Research group [i](You can have two commanders if both have this ability.)[/i]
+
+RW02 Nervous Prodigy
+
+RW04 Merrs, Head Surgeon
+rules_text: Merrs enters with a +1/+1 counter on him.
+Once during each of your turns, you may cast a creature spell from your graveyard with mana value less than or equal to the number of counters on Merrs. Whenever you do, educate. [i](Choose a counter on a permanent you control. Put a counter of that kind on target permanent you control.)[/i] => Merrs enters with a +1/+1 counter on him.
+Once during each of your turns, you may cast a creature spell from your graveyard with mana value less than or equal to the number of counters on Merrs. Whenever you do, educate.
+
+RW05 Damning Verdict
+
+RU01 Ran Ste-Su G'Mindel
+
+RU02 Voracious Reader
+
+RU04
+
+RB01
+
+RB02 Fashionable Matron
+rules_text: Offspring {2} [i](You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+When this creature enters, salvage 3. [i](Create a Junk token or return target artifact with mana value 3 or less from your graveyard to your hand.)[/i] => Offspring {2} [i](You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+When this creature enters, salvage 3. [i](Create a Junk token or cast target artifact spell with mana value 3 or less from your graveyard. If you cast a spell this way, that artifact enters with a finality counter on it.)[/i]
+
+RB03
+
+RB04 Entomb
+
+RB05 The Silent Ages
+
+RR01
+
+RR02 Enthusiastic Maiden
+
+RR05
+
+RG01
+
+RG02 Helpful Ingenue
+
+RG03
+
+RG04
+
+RG05
+
+MW01 Luminous Broodmoth
+
+MU01 Show and Tell
+
+MB01
+
+MG01 Craterhoof Behemoth
+
+UM01 Dinnlan Deserter
+rules_text: When Dinnlan Deserter enters or attacks, tap target creature an opponent controls and put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i] => Whenever Dinnlan Deserter enters or attacks, tap target creature an opponent controls and put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+
+UM02 De-Facto Patriarch
+rules_text: Nimble [i](This creature can't be blocked by creatures with power 3 or greater.)[/i]
+When De-Facto Patriarch attacks, target player mills 2 cards. If defending player controls a non-Yinglet creature, target player mills 3 cards instead. => Nimble [i](This creature can't be blocked by creatures with power 3 or greater.)[/i]
+When De-Facto Patriarch attacks, target player mills a card. If defending player controls a non-Yinglet creature, target player mills two cards instead.
+
+UM03 Scavenger Leader
+rules_text: Remove a counter from among permanents you control: Salvage 3. [i](Create a Junk token or return target artifact with mana value 3 or less from your graveyard to your hand.)[/i] => Whenever this creature attacks, salvage 2. [i](Create a Junk token or cast target artifact spell with mana value 2 or less from your graveyard. If you cast a spell this way, that artifact enters with a finality counter on it.)[/i]
+
+UM04 Food Fighters
+
+UM05 Hatchery Nurse
+type: Creature — Yinglet => Creature — Yinglet Cleric
+rules_text: Whenever you create a token, populate. Whenever you put a counter on a creature you control, educate. [i](To populate, create a token that's a copy of a creature token you control. To educate, choose a counter on a permanent you control. Put a counter of that kind on target permanent you control.)[/i] => Whenever you create a token or put a counter on a creature you control, choose one that hasn't been chosen this turn—
+• Populate. [i](Create a token that's a copy of a creature token you control.)[/i]
+• Educate. [i](Choose a counter on a permanent you control. Put a counter of that kind on target permanent you control.)[/i]
+
+UM06 Unscrupulous Merchant
+
+UM07 Metalwork Artisan
+
+UM08 Salt-Grass
+
+UM09 Dig Site Foreman
+
+UM10 Primal Empathy
+
+RM02 Lady Talleraine
+
+RM03 Brakka, Street Exile
+
+RM04 Lopin, Fancy Lad
+
+RM05 Kassen Akoll, Officer-Diplomat
+
+RM06 Narklet, Patriarch of Scavenging
+rules_text: {T}, Remove X counters from among creatures you control: Salvage X. [i](Create a Junk token or return target artifact with mana value X or less from your graveyard to your hand.)[/i] => {T}, Remove X counters from among creatures you control: Salvage X. [i](Create a Junk token or cast target artifact spell with mana value X or less from your graveyard. If you cast a spell this way, that artifact enters with a finality counter on it.)[/i]
+
+RM07 Kalgkur, Provisional Guard
+
+RM08
+
+RM09 Isher, Hiding from Herself
+
+RM10 Yannit, Research Partner
+
+CA01 Yinglet Spear
+rules_text: When this Equipment enters, create a 1/1 colorless Yinglet creature token and attach this Equipment to it.
+Equipped creature gets +1/+1.
+Equip {2} => When this Equipment enters, create a 1/1 green Yinglet creature token and attach this Equipment to it.
+Equipped creature gets +1/+1.
+Equip {2}
+
+UA01 Soul-Guide Lantern
+
+UA02 Ball-and-Chain
+rules_text: Whenever equipped creature deals damage to a creature, tap that creature and put a stun counter on that creature.
+Equipped creature gets +1/+1.
+Equip creature with power 3 or greater {2} => Whenever equipped creature attacks, tap target creature and put a stun counter on that creature.
+Equipped creature gets +1/+1.
+Equip creature with power 3 or greater {2}
+
+UA03 Patchwork Banner
+
+UA04 Fishing Rod
+cost:  => {1}
+
+UA05 Elixer of Immortality
+
+RA01 Val Salian Library
+
+RA02 The Val Salian Field Guide
+
+CL01 Tranquil Cove
+
+CL02 Dismal Backwater
+
+CL03 Bloodfell Caves
+
+CL04 Rugged Highlands
+
+CL05 Blossoming Sands
+
+CL06 Scoured Barrens
+
+CL07 Swiftwater Cliffs
+
+CL08 Jungle Hollow
+
+CL09 Wind-Scarred Crag
+
+CL10 Thornwood Falls
+
+CL11 Escape Tunnel
+
+RL01 Hallowed Fountain
+
+RL02 Steam Vents
+
+RL03 Blood Crypt
+
+RL04 Overgrown Tomb
+
+RL05 Temple Garden
+
+UX03
+
+UX04
+
+UX05
+
+RX01
+
+RX02
+
+RX03
+
+RX04
+
+RX05
+
+RX06
+
+MM01 The Great Leader
+
+MM02 Viracroix Salia, Trademaster
+
+MM03 Vizlet, Enclave Matriarch
+
+MM04 He-Who-Knows-What-He-Did
+
+MM05 Zeska Riptooth, Bandit Leader
+
+CU12 Yingify
+
+MA01 Zat Zhing
+
+CB04
+cost:  => {2}{B}
+
+RW88 Overencumbered
+
+
+VERSION 2 CHANGELOG
 ====================
 
 CW11 Rootborn Defenses added.
